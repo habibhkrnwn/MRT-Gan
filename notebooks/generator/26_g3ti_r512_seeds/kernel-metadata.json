@@ -1,0 +1,21 @@
+{
+  "id": "habibhammamkurniawan/26-melon-g3ti-r512-seeds",
+  "title": "26 Melon G3TI R512 seeds",
+  "code_file": "26_g3ti_r512_seeds.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": true,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "dataset_sources": [
+    "habibhammamkurniawan/melon-texture-study-code",
+    "habibhammamkurniawan/melon-dataset-regrouped-v4",
+    "habibhammamkurniawan/melon-benchmark-assets"
+  ],
+  "competition_sources": [],
+  "kernel_sources": [
+    "habibhammamkurniawan/13-melon-texture-study-pilot"
+  ],
+  "model_sources": []
+}

@@ -1,0 +1,15 @@
+# Runtime for the CycleGAN melon experiment.
+# Kaggle images already ship torch, torchvision, numpy, opencv, pillow, scipy,
+# scikit-image, scikit-learn and ultralytics; this file pins what a local run needs.
+torch>=2.0
+torchvision
+numpy
+pillow
+opencv-python-headless
+scipy
+scikit-image
+scikit-learn
+ultralytics
+# The vendored upstream repository imports visdom, dominate and wandb inside
+# util/visualizer.py. melon_cyclegan/train_loop.py replaces that module, so none
+# of the three is required.

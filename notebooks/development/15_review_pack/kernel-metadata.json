@@ -1,0 +1,17 @@
+{
+  "id": "habibhammamkurniawan/15-melon-review-pack",
+  "title": "15 Melon review pack",
+  "code_file": "15_review_pack.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": true,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "dataset_sources": [],
+  "competition_sources": [],
+  "kernel_sources": [
+    "habibhammamkurniawan/13-melon-texture-study-pilot"
+  ],
+  "model_sources": []
+}

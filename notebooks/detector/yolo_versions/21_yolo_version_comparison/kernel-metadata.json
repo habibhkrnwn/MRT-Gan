@@ -1,0 +1,18 @@
+{
+  "id": "habibhammamkurniawan/21-melon-yolo-version-comparison",
+  "title": "21 Melon YOLO version comparison",
+  "code_file": "21_yolo_version_comparison.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": true,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "dataset_sources": [
+    "habibhammamkurniawan/melon-texture-study-code",
+    "habibhammamkurniawan/melon-dataset-regrouped-v4"
+  ],
+  "competition_sources": [],
+  "kernel_sources": [],
+  "model_sources": []
+}

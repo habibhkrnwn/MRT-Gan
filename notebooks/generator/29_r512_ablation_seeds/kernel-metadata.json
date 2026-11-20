@@ -1,0 +1,27 @@
+{
+  "id": "habibhammamkurniawan/29-melon-r512-ablation-seeds",
+  "id_no": 142983259,
+  "title": "29 Melon R512 ablation seeds",
+  "code_file": "29_r512_ablation_seeds.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": true,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "gpu"
+  ],
+  "dataset_sources": [
+    "habibhammamkurniawan/melon-benchmark-assets",
+    "habibhammamkurniawan/melon-dataset-regrouped-v4",
+    "habibhammamkurniawan/melon-texture-study-code"
+  ],
+  "kernel_sources": [
+    "habibhammamkurniawan/13-melon-texture-study-pilot"
+  ],
+  "competition_sources": [],
+  "model_sources": [],
+  "docker_image": "gcr.io/kaggle-private-byod/python@sha256:de153e6d303881930c51286216393d56f56b26458d0661350305a1e8144eea01",
+  "machine_shape": "NvidiaTeslaT4"
+}

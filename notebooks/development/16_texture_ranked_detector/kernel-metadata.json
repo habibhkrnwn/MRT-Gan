@@ -1,0 +1,22 @@
+{
+  "id": "habibhammamkurniawan/16-melon-texture-ranked-detector",
+  "title": "16 Melon texture ranked detector",
+  "code_file": "16_texture_ranked_detector.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": true,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "dataset_sources": [
+    "habibhammamkurniawan/melon-texture-study-code",
+    "habibhammamkurniawan/melon-dataset-regrouped-v4",
+    "habibhammamkurniawan/melon-benchmark-assets",
+    "habibhammamkurniawan/melon-texture-review-p100"
+  ],
+  "competition_sources": [],
+  "kernel_sources": [
+    "habibhammamkurniawan/13-melon-texture-study-pilot"
+  ],
+  "model_sources": []
+}

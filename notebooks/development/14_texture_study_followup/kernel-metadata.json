@@ -1,0 +1,22 @@
+{
+  "id": "habibhammamkurniawan/14-melon-texture-study-followup",
+  "title": "14 Melon texture study followup",
+  "code_file": "14_texture_study_followup.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": true,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "dataset_sources": [
+    "habibhammamkurniawan/melon-texture-study-code",
+    "habibhammamkurniawan/melon-dataset-regrouped-v4",
+    "habibhammamkurniawan/melon-benchmark-assets",
+    "habibhammamkurniawan/melon-texture-review-p100"
+  ],
+  "competition_sources": [],
+  "kernel_sources": [
+    "habibhammamkurniawan/13-melon-texture-study-pilot"
+  ],
+  "model_sources": []
+}

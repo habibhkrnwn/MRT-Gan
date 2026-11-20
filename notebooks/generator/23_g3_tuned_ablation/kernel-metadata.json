@@ -1,0 +1,21 @@
+{
+  "id": "habibhammamkurniawan/23-melon-g3-tuned-ablation",
+  "title": "23 Melon G3 tuned ablation",
+  "code_file": "23_g3_tuned_ablation.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": true,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "dataset_sources": [
+    "habibhammamkurniawan/melon-texture-study-code",
+    "habibhammamkurniawan/melon-dataset-regrouped-v4",
+    "habibhammamkurniawan/melon-benchmark-assets"
+  ],
+  "competition_sources": [],
+  "kernel_sources": [
+    "habibhammamkurniawan/13-melon-texture-study-pilot"
+  ],
+  "model_sources": []
+}

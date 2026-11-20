@@ -1,0 +1,7 @@
+{
+  "name": "g0x_train_v2",
+  "source_crops_digest": "82e8ae0980142fdebb3aa443e14ce068b60247bbdb1aac047a7bfba1c77d075a",
+  "excluded_ids": ["DSC_0093"],
+  "allowed_mask_sources": ["grabcut"],
+  "reason": "Quarantine disputed label and automatic rectangle fallback masks from GAN training only. No relabeling or human acceptance. Keep both domains and all remaining train crops."
+}

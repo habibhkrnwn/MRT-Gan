@@ -1,0 +1,25 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# Large files go to GitHub Releases, not git
+*.pth
+*.pt
+*.ckpt
+*.zip
+*.npz
+*.jpg
+*.jpeg
+*.png
+/data/
+/datasets/
+/runs/
+/results/
+
+# Credentials and blinding keys
+kaggle.json
+access_token
+.env
+*PRIVATE*

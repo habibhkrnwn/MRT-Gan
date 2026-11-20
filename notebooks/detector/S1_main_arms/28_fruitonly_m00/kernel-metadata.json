@@ -1,0 +1,23 @@
+{
+  "id": "habibhammamkurniawan/28-melon-fruitonly-m00",
+  "title": "28 Melon fruitonly m00",
+  "code_file": "28_fruitonly_m00.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": true,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "dataset_sources": [
+    "habibhammamkurniawan/melon-texture-study-code",
+    "habibhammamkurniawan/melon-dataset-regrouped-v4",
+    "habibhammamkurniawan/melon-benchmark-assets",
+    "habibhammamkurniawan/melon-mrtgan-review-v2"
+  ],
+  "competition_sources": [],
+  "kernel_sources": [
+    "habibhammamkurniawan/13-melon-texture-study-pilot",
+    "habibhammamkurniawan/26-melon-g3ti-r512-seeds"
+  ],
+  "model_sources": []
+}

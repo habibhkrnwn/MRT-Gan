@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+message: "If you use this code or the released data, please cite the paper below."
+title: "MRT-GAN: code, weights and evidence for melon ripeness transformation"
+authors:
+  - family-names: "Kurniawan"
+    given-names: "Habib Hammam"
+    affiliation: "Department of Electrical Engineering, Institut Teknologi Sepuluh Nopember"
+  - family-names: "Sardjono"
+    given-names: "Tri Arief"
+    affiliation: "Department of Biomedical Engineering, Institut Teknologi Sepuluh Nopember"
+  - family-names: "Widyantara"
+    given-names: "Helmy"
+    affiliation: "Department of Information Technology, Telkom University"
+repository-code: "https://github.com/habibhkrnwn/MRT-Gan"
+license: MIT
+version: "v1.1-revision1"
+date-released: "2026-11-20"
+preferred-citation:
+  type: article
+  title: "MRT-GAN: Fruit-Texture Discrimination for Melon Ripeness Transformation with Shortcut-Aware Evaluation"
+  authors:
+    - family-names: "Kurniawan"
+      given-names: "Habib Hammam"
+    - family-names: "Sardjono"
+      given-names: "Tri Arief"
+    - family-names: "Widyantara"
+      given-names: "Helmy"
+  journal: "International Journal of Intelligent Engineering and Systems"
+  year: 2026
+  notes: "Manuscript 20267304, under review. Volume, pages and DOI to be added after acceptance."

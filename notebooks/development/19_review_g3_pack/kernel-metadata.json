@@ -1,0 +1,19 @@
+{
+  "id": "habibhammamkurniawan/19-melon-review-g3-pack",
+  "title": "19 Melon review G3 pack",
+  "code_file": "19_review_g3_pack.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": true,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "dataset_sources": [
+    "habibhammamkurniawan/melon-texture-study-code"
+  ],
+  "competition_sources": [],
+  "kernel_sources": [
+    "habibhammamkurniawan/18-melon-texture-subset-generators-matched"
+  ],
+  "model_sources": []
+}

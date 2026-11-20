@@ -1,0 +1,29 @@
+{
+  "id": "habibhammamkurniawan/31-melon-within-dsc-groups",
+  "id_no": 142984353,
+  "title": "31 Melon within DSC groups",
+  "code_file": "31_within_dsc_groups.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": true,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "gpu"
+  ],
+  "dataset_sources": [
+    "habibhammamkurniawan/melon-benchmark-assets",
+    "habibhammamkurniawan/melon-dataset-regrouped-v4",
+    "habibhammamkurniawan/melon-texture-study-code",
+    "habibhammamkurniawan/melon-mrtgan-review-v2"
+  ],
+  "kernel_sources": [
+    "habibhammamkurniawan/13-melon-texture-study-pilot",
+    "habibhammamkurniawan/26-melon-g3ti-r512-seeds"
+  ],
+  "competition_sources": [],
+  "model_sources": [],
+  "docker_image": "gcr.io/kaggle-private-byod/python@sha256:de153e6d303881930c51286216393d56f56b26458d0661350305a1e8144eea01",
+  "machine_shape": "NvidiaTeslaT4"
+}

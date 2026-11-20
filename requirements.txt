@@ -1,0 +1,16 @@
+# Local analysis environment (Python 3.12.3, CPU), pinned from the environment that produced the evidence files.
+# Kaggle kernels use the Kaggle image and install ultralytics==8.4.163 for detector runs.
+torch==2.14.0
+torchvision==0.29.0
+torch_fidelity==0.4.0
+numpy==2.5.3
+scipy==1.18.1
+scikit-image==0.26.0
+scikit-learn==1.9.1
+opencv-python-headless==5.0.0.93
+pillow==12.3.0
+matplotlib==3.11.2
+openTSNE==1.0.4
+ultralytics==8.4.157
+PyYAML==6.0.3
+tqdm==4.70.1

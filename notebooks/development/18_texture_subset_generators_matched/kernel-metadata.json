@@ -1,0 +1,23 @@
+{
+  "id": "habibhammamkurniawan/18-melon-texture-subset-generators-matched",
+  "title": "18 Melon texture subset generators matched",
+  "code_file": "18_texture_subset_generators_matched.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": true,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "dataset_sources": [
+    "habibhammamkurniawan/melon-texture-study-code",
+    "habibhammamkurniawan/melon-dataset-regrouped-v4",
+    "habibhammamkurniawan/melon-benchmark-assets",
+    "habibhammamkurniawan/melon-texture-review-p100"
+  ],
+  "competition_sources": [],
+  "kernel_sources": [
+    "habibhammamkurniawan/13-melon-texture-study-pilot",
+    "habibhammamkurniawan/16-melon-texture-ranked-detector"
+  ],
+  "model_sources": []
+}

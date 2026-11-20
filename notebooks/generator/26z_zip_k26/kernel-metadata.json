@@ -1,0 +1,17 @@
+{
+  "id": "habibhammamkurniawan/26z-melon-zip-k26-output",
+  "title": "26z Melon zip k26 output",
+  "code_file": "26z_zip_k26.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": true,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "dataset_sources": [],
+  "competition_sources": [],
+  "kernel_sources": [
+    "habibhammamkurniawan/26-melon-g3ti-r512-seeds"
+  ],
+  "model_sources": []
+}
