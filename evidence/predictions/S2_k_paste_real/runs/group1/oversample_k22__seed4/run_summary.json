@@ -1,0 +1,91 @@
+{
+  "identity": {
+    "version": "melon-benchmark-1.0",
+    "arm": "oversample_k22",
+    "seed": 4,
+    "updates": 3000,
+    "batch": 8,
+    "lr": 0.0001,
+    "architecture": "yolov8n",
+    "image_size": 640,
+    "counts": {
+      "real": 301,
+      "added": 22,
+      "validation": 87,
+      "real_per_class": {
+        "0": 217,
+        "1": 84
+      },
+      "added_per_class": {
+        "1": 22
+      },
+      "total_per_class": {
+        "0": 217,
+        "1": 106
+      },
+      "unripe_to_ripe": 0.4885
+    },
+    "code": "75dc3df4e0ee96c3cfb82b5f0f2b8e1271817e284da03199e4ec1e9934798c02",
+    "scope": "full train split plus added images; full frames only; test split not read"
+  },
+  "training_seconds": 1111.5,
+  "validation": {
+    "map50_95": 0.9891380645161292,
+    "map50": 0.995,
+    "per_class": {
+      "ripe": {
+        "ap50_95": 0.9895161290322578
+      },
+      "unripe": {
+        "ap50_95": 0.9887600000000001
+      }
+    },
+    "precision": [
+      0.999304104350054,
+      0.9970834798829533
+    ],
+    "recall": [
+      1.0,
+      1.0
+    ]
+  },
+  "selected": {
+    "update": 1500,
+    "validation": {
+      "map50_95": 0.9906154838709679,
+      "map50": 0.995,
+      "per_class": {
+        "ripe": {
+          "ap50_95": 0.9908709677419354
+        },
+        "unripe": {
+          "ap50_95": 0.9903600000000001
+        }
+      },
+      "precision": [
+        0.9995728969656161,
+        0.9943876073468529
+      ],
+      "recall": [
+        1.0,
+        1.0
+      ]
+    },
+    "weights": "weights_selected.pt",
+    "rule": "best validation mAP50:95 over periodic evaluations and the final state"
+  },
+  "export": {
+    "images": 87,
+    "annotations": 87,
+    "predictions": 4849,
+    "conf": 0.001,
+    "max_det": 100,
+    "note": "class-aware NMS only; class bias and cross-class NMS are left to the caller"
+  },
+  "weights": {
+    "path": "weights.pt",
+    "bytes": 12209081
+  },
+  "eval_every": 250,
+  "test_used": false
+}

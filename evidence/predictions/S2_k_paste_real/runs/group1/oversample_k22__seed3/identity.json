@@ -1,0 +1,29 @@
+{
+  "version": "melon-benchmark-1.0",
+  "arm": "oversample_k22",
+  "seed": 3,
+  "updates": 3000,
+  "batch": 8,
+  "lr": 0.0001,
+  "architecture": "yolov8n",
+  "image_size": 640,
+  "counts": {
+    "real": 301,
+    "added": 22,
+    "validation": 87,
+    "real_per_class": {
+      "0": 217,
+      "1": 84
+    },
+    "added_per_class": {
+      "1": 22
+    },
+    "total_per_class": {
+      "0": 217,
+      "1": 106
+    },
+    "unripe_to_ripe": 0.4885
+  },
+  "code": "75dc3df4e0ee96c3cfb82b5f0f2b8e1271817e284da03199e4ec1e9934798c02",
+  "scope": "full train split plus added images; full frames only; test split not read"
+}

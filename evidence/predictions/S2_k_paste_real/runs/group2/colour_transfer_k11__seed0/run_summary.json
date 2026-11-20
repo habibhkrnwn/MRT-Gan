@@ -1,0 +1,91 @@
+{
+  "identity": {
+    "version": "melon-benchmark-1.0",
+    "arm": "colour_transfer_k11",
+    "seed": 0,
+    "updates": 3000,
+    "batch": 8,
+    "lr": 0.0001,
+    "architecture": "yolov8n",
+    "image_size": 640,
+    "counts": {
+      "real": 301,
+      "added": 11,
+      "validation": 87,
+      "real_per_class": {
+        "0": 217,
+        "1": 84
+      },
+      "added_per_class": {
+        "1": 11
+      },
+      "total_per_class": {
+        "0": 217,
+        "1": 95
+      },
+      "unripe_to_ripe": 0.4378
+    },
+    "code": "75dc3df4e0ee96c3cfb82b5f0f2b8e1271817e284da03199e4ec1e9934798c02",
+    "scope": "full train split plus added images; full frames only; test split not read"
+  },
+  "training_seconds": 1092.0,
+  "validation": {
+    "map50_95": 0.9888283870967743,
+    "map50": 0.995,
+    "per_class": {
+      "ripe": {
+        "ap50_95": 0.9880967741935482
+      },
+      "unripe": {
+        "ap50_95": 0.98956
+      }
+    },
+    "precision": [
+      0.9990904375007484,
+      0.9980388665675702
+    ],
+    "recall": [
+      1.0,
+      1.0
+    ]
+  },
+  "selected": {
+    "update": 1000,
+    "validation": {
+      "map50_95": 0.9914789335088876,
+      "map50": 0.995,
+      "per_class": {
+        "ripe": {
+          "ap50_95": 0.9879578670177749
+        },
+        "unripe": {
+          "ap50_95": 0.9949999999999999
+        }
+      },
+      "precision": [
+        0.9988770856349611,
+        0.9979777513472776
+      ],
+      "recall": [
+        1.0,
+        1.0
+      ]
+    },
+    "weights": "weights_selected.pt",
+    "rule": "best validation mAP50:95 over periodic evaluations and the final state"
+  },
+  "export": {
+    "images": 87,
+    "annotations": 87,
+    "predictions": 4289,
+    "conf": 0.001,
+    "max_det": 100,
+    "note": "class-aware NMS only; class bias and cross-class NMS are left to the caller"
+  },
+  "weights": {
+    "path": "weights.pt",
+    "bytes": 12209081
+  },
+  "eval_every": 250,
+  "test_used": false
+}

@@ -1,0 +1,1230 @@
+{
+  "arm": "real_only",
+  "real": [
+    {
+      "id": "DSC_0001",
+      "class_id": 0
+    },
+    {
+      "id": "DSC_0002",
+      "class_id": 0
+    },
+    {
+      "id": "DSC_0003",
+      "class_id": 0
+    },
+    {
+      "id": "DSC_0004",
+      "class_id": 0
+    },
+    {
+      "id": "DSC_0005",
+      "class_id": 0
+    },
+    {
+      "id": "DSC_0006",
+      "class_id": 0
+    },
+    {
+      "id": "DSC_0007",
+      "class_id": 0
+    },
+    {
+      "id": "DSC_0008",
+      "class_id": 0
+    },
+    {
+      "id": "DSC_0009",
+      "class_id": 0
+    },
+    {
+      "id": "DSC_0010",
+      "class_id": 0
+    },
+    {
+      "id": "DSC_0011",
+      "class_id": 0
+    },
+    {
+      "id": "DSC_0012",
+      "class_id": 0
+    },
+    {
+      "id": "DSC_0013",
+      "class_id": 0
+    },
+    {
+      "id": "DSC_0014",
+      "class_id": 0
+    },
+    {
+      "id": "DSC_0015",
+      "class_id": 0
+    },
+    {
+      "id": "DSC_0016",
+      "class_id": 0
+    },
+    {
+      "id": "DSC_0017",
+      "class_id": 0
+    },
+    {
+      "id": "DSC_0018",
+      "class_id": 0
+    },
+    {
+      "id": "DSC_0019",
+      "class_id": 0
+    },
+    {
+      "id": "DSC_0020",
+      "class_id": 0
+    },
+    {
+      "id": "DSC_0021",
+      "class_id": 0
+    },
+    {
+      "id": "DSC_0022",
+      "class_id": 0
+    },
+    {
+      "id": "DSC_0023",
+      "class_id": 0
+    },
+    {
+      "id": "DSC_0024",
+      "class_id": 0
+    },
+    {
+      "id": "DSC_0025",
+      "class_id": 0
+    },
+    {
+      "id": "DSC_0026",
+      "class_id": 0
+    },
+    {
+      "id": "DSC_0027",
+      "class_id": 0
+    },
+    {
+      "id": "DSC_0028",
+      "class_id": 0
+    },
+    {
+      "id": "DSC_0029",
+      "class_id": 0
+    },
+    {
+      "id": "DSC_0030",
+      "class_id": 0
+    },
+    {
+      "id": "DSC_0031",
+      "class_id": 0
+    },
+    {
+      "id": "DSC_0032",
+      "class_id": 0
+    },
+    {
+      "id": "DSC_0033",
+      "class_id": 0
+    },
+    {
+      "id": "DSC_0034",
+      "class_id": 0
+    },
+    {
+      "id": "DSC_0035",
+      "class_id": 0
+    },
+    {
+      "id": "DSC_0036",
+      "class_id": 0
+    },
+    {
+      "id": "DSC_0037",
+      "class_id": 0
+    },
+    {
+      "id": "DSC_0038",
+      "class_id": 0
+    },
+    {
+      "id": "DSC_0039",
+      "class_id": 0
+    },
+    {
+      "id": "DSC_0040",
+      "class_id": 0
+    },
+    {
+      "id": "DSC_0041",
+      "class_id": 0
+    },
+    {
+      "id": "DSC_0042",
+      "class_id": 0
+    },
+    {
+      "id": "DSC_0043",
+      "class_id": 0
+    },
+    {
+      "id": "DSC_0044",
+      "class_id": 0
+    },
+    {
+      "id": "DSC_0045",
+      "class_id": 0
+    },
+    {
+      "id": "DSC_0046",
+      "class_id": 0
+    },
+    {
+      "id": "DSC_0047",
+      "class_id": 0
+    },
+    {
+      "id": "DSC_0048",
+      "class_id": 0
+    },
+    {
+      "id": "DSC_0049",
+      "class_id": 0
+    },
+    {
+      "id": "DSC_0050",
+      "class_id": 0
+    },
+    {
+      "id": "DSC_0051",
+      "class_id": 0
+    },
+    {
+      "id": "DSC_0052",
+      "class_id": 0
+    },
+    {
+      "id": "DSC_0053",
+      "class_id": 0
+    },
+    {
+      "id": "DSC_0054",
+      "class_id": 0
+    },
+    {
+      "id": "DSC_0055",
+      "class_id": 0
+    },
+    {
+      "id": "DSC_0056",
+      "class_id": 0
+    },
+    {
+      "id": "DSC_0057",
+      "class_id": 0
+    },
+    {
+      "id": "DSC_0058",
+      "class_id": 0
+    },
+    {
+      "id": "DSC_0059",
+      "class_id": 0
+    },
+    {
+      "id": "DSC_0060",
+      "class_id": 0
+    },
+    {
+      "id": "DSC_0061",
+      "class_id": 0
+    },
+    {
+      "id": "DSC_0062",
+      "class_id": 0
+    },
+    {
+      "id": "DSC_0063",
+      "class_id": 0
+    },
+    {
+      "id": "DSC_0064",
+      "class_id": 0
+    },
+    {
+      "id": "DSC_0065",
+      "class_id": 0
+    },
+    {
+      "id": "DSC_0066",
+      "class_id": 0
+    },
+    {
+      "id": "DSC_0067",
+      "class_id": 0
+    },
+    {
+      "id": "DSC_0068",
+      "class_id": 0
+    },
+    {
+      "id": "DSC_0069",
+      "class_id": 0
+    },
+    {
+      "id": "DSC_0070",
+      "class_id": 0
+    },
+    {
+      "id": "DSC_0071",
+      "class_id": 0
+    },
+    {
+      "id": "DSC_0072",
+      "class_id": 0
+    },
+    {
+      "id": "DSC_0074",
+      "class_id": 0
+    },
+    {
+      "id": "DSC_0075",
+      "class_id": 0
+    },
+    {
+      "id": "DSC_0076",
+      "class_id": 1
+    },
+    {
+      "id": "DSC_0077",
+      "class_id": 0
+    },
+    {
+      "id": "DSC_0078",
+      "class_id": 0
+    },
+    {
+      "id": "DSC_0079",
+      "class_id": 0
+    },
+    {
+      "id": "DSC_0080",
+      "class_id": 0
+    },
+    {
+      "id": "DSC_0081",
+      "class_id": 0
+    },
+    {
+      "id": "DSC_0082",
+      "class_id": 0
+    },
+    {
+      "id": "DSC_0083",
+      "class_id": 0
+    },
+    {
+      "id": "DSC_0084",
+      "class_id": 0
+    },
+    {
+      "id": "DSC_0085",
+      "class_id": 0
+    },
+    {
+      "id": "DSC_0086",
+      "class_id": 0
+    },
+    {
+      "id": "DSC_0087",
+      "class_id": 0
+    },
+    {
+      "id": "DSC_0088",
+      "class_id": 0
+    },
+    {
+      "id": "DSC_0089",
+      "class_id": 0
+    },
+    {
+      "id": "DSC_0090",
+      "class_id": 0
+    },
+    {
+      "id": "DSC_0091",
+      "class_id": 0
+    },
+    {
+      "id": "DSC_0092",
+      "class_id": 0
+    },
+    {
+      "id": "DSC_0094",
+      "class_id": 0
+    },
+    {
+      "id": "DSC_0095",
+      "class_id": 0
+    },
+    {
+      "id": "DSC_0096",
+      "class_id": 1
+    },
+    {
+      "id": "DSC_0100",
+      "class_id": 1
+    },
+    {
+      "id": "DSC_0101",
+      "class_id": 1
+    },
+    {
+      "id": "DSC_0102",
+      "class_id": 1
+    },
+    {
+      "id": "DSC_0103",
+      "class_id": 1
+    },
+    {
+      "id": "DSC_0104",
+      "class_id": 1
+    },
+    {
+      "id": "DSC_0105",
+      "class_id": 1
+    },
+    {
+      "id": "DSC_0106",
+      "class_id": 1
+    },
+    {
+      "id": "DSC_0107",
+      "class_id": 1
+    },
+    {
+      "id": "DSC_0108",
+      "class_id": 0
+    },
+    {
+      "id": "DSC_0109",
+      "class_id": 0
+    },
+    {
+      "id": "DSC_0110",
+      "class_id": 0
+    },
+    {
+      "id": "DSC_0111",
+      "class_id": 0
+    },
+    {
+      "id": "DSC_0112",
+      "class_id": 0
+    },
+    {
+      "id": "DSC_0113",
+      "class_id": 0
+    },
+    {
+      "id": "DSC_0114",
+      "class_id": 0
+    },
+    {
+      "id": "DSC_0115",
+      "class_id": 0
+    },
+    {
+      "id": "DSC_0116",
+      "class_id": 0
+    },
+    {
+      "id": "DSC_0117",
+      "class_id": 0
+    },
+    {
+      "id": "DSC_0118",
+      "class_id": 0
+    },
+    {
+      "id": "DSC_0119",
+      "class_id": 0
+    },
+    {
+      "id": "DSC_0120",
+      "class_id": 0
+    },
+    {
+      "id": "DSC_0121",
+      "class_id": 0
+    },
+    {
+      "id": "DSC_0122",
+      "class_id": 0
+    },
+    {
+      "id": "DSC_0123",
+      "class_id": 0
+    },
+    {
+      "id": "DSC_0124",
+      "class_id": 0
+    },
+    {
+      "id": "DSC_0125",
+      "class_id": 0
+    },
+    {
+      "id": "DSC_0126",
+      "class_id": 1
+    },
+    {
+      "id": "DSC_0127",
+      "class_id": 0
+    },
+    {
+      "id": "DSC_0128",
+      "class_id": 0
+    },
+    {
+      "id": "DSC_0129",
+      "class_id": 0
+    },
+    {
+      "id": "DSC_0130",
+      "class_id": 0
+    },
+    {
+      "id": "DSC_0131",
+      "class_id": 0
+    },
+    {
+      "id": "DSC_0132",
+      "class_id": 0
+    },
+    {
+      "id": "DSC_0133",
+      "class_id": 0
+    },
+    {
+      "id": "DSC_0134",
+      "class_id": 0
+    },
+    {
+      "id": "DSC_0135",
+      "class_id": 0
+    },
+    {
+      "id": "DSC_0136",
+      "class_id": 0
+    },
+    {
+      "id": "DSC_0137",
+      "class_id": 0
+    },
+    {
+      "id": "DSC_0138",
+      "class_id": 0
+    },
+    {
+      "id": "DSC_0140",
+      "class_id": 0
+    },
+    {
+      "id": "DSC_0141",
+      "class_id": 0
+    },
+    {
+      "id": "DSC_0142",
+      "class_id": 0
+    },
+    {
+      "id": "DSC_0143",
+      "class_id": 0
+    },
+    {
+      "id": "DSC_0144",
+      "class_id": 0
+    },
+    {
+      "id": "DSC_0145",
+      "class_id": 0
+    },
+    {
+      "id": "DSC_0146",
+      "class_id": 0
+    },
+    {
+      "id": "DSC_0147",
+      "class_id": 1
+    },
+    {
+      "id": "DSC_0161",
+      "class_id": 0
+    },
+    {
+      "id": "DSC_0162",
+      "class_id": 0
+    },
+    {
+      "id": "DSC_0163",
+      "class_id": 0
+    },
+    {
+      "id": "DSC_0164",
+      "class_id": 0
+    },
+    {
+      "id": "DSC_0165",
+      "class_id": 0
+    },
+    {
+      "id": "DSC_0166",
+      "class_id": 0
+    },
+    {
+      "id": "DSC_0167",
+      "class_id": 0
+    },
+    {
+      "id": "DSC_0168",
+      "class_id": 0
+    },
+    {
+      "id": "DSC_0169",
+      "class_id": 0
+    },
+    {
+      "id": "DSC_0170",
+      "class_id": 0
+    },
+    {
+      "id": "DSC_0171",
+      "class_id": 0
+    },
+    {
+      "id": "DSC_0172",
+      "class_id": 0
+    },
+    {
+      "id": "DSC_0173",
+      "class_id": 0
+    },
+    {
+      "id": "DSC_0174",
+      "class_id": 0
+    },
+    {
+      "id": "DSC_0175",
+      "class_id": 0
+    },
+    {
+      "id": "DSC_0176",
+      "class_id": 0
+    },
+    {
+      "id": "DSC_0177",
+      "class_id": 0
+    },
+    {
+      "id": "DSC_0178",
+      "class_id": 0
+    },
+    {
+      "id": "DSC_0179",
+      "class_id": 0
+    },
+    {
+      "id": "DSC_0180",
+      "class_id": 0
+    },
+    {
+      "id": "DSC_0182",
+      "class_id": 1
+    },
+    {
+      "id": "DSC_0183",
+      "class_id": 0
+    },
+    {
+      "id": "DSC_0184",
+      "class_id": 0
+    },
+    {
+      "id": "DSC_0185",
+      "class_id": 0
+    },
+    {
+      "id": "DSC_0186",
+      "class_id": 0
+    },
+    {
+      "id": "DSC_0187",
+      "class_id": 0
+    },
+    {
+      "id": "DSC_0188",
+      "class_id": 0
+    },
+    {
+      "id": "DSC_0189",
+      "class_id": 0
+    },
+    {
+      "id": "DSC_0190",
+      "class_id": 0
+    },
+    {
+      "id": "DSC_0191",
+      "class_id": 0
+    },
+    {
+      "id": "DSC_0192",
+      "class_id": 0
+    },
+    {
+      "id": "DSC_0193",
+      "class_id": 0
+    },
+    {
+      "id": "DSC_0194",
+      "class_id": 0
+    },
+    {
+      "id": "DSC_0195",
+      "class_id": 0
+    },
+    {
+      "id": "DSC_0196",
+      "class_id": 0
+    },
+    {
+      "id": "DSC_0197",
+      "class_id": 0
+    },
+    {
+      "id": "DSC_0198",
+      "class_id": 0
+    },
+    {
+      "id": "DSC_0199",
+      "class_id": 0
+    },
+    {
+      "id": "DSC_0200",
+      "class_id": 0
+    },
+    {
+      "id": "DSC_0201",
+      "class_id": 0
+    },
+    {
+      "id": "DSC_0202",
+      "class_id": 0
+    },
+    {
+      "id": "DSC_0203",
+      "class_id": 0
+    },
+    {
+      "id": "DSC_0204",
+      "class_id": 0
+    },
+    {
+      "id": "DSC_0205",
+      "class_id": 0
+    },
+    {
+      "id": "DSC_0206",
+      "class_id": 0
+    },
+    {
+      "id": "DSC_0207",
+      "class_id": 0
+    },
+    {
+      "id": "DSC_0208",
+      "class_id": 0
+    },
+    {
+      "id": "DSC_0209",
+      "class_id": 1
+    },
+    {
+      "id": "DSC_0221",
+      "class_id": 0
+    },
+    {
+      "id": "DSC_0222",
+      "class_id": 0
+    },
+    {
+      "id": "DSC_0223",
+      "class_id": 0
+    },
+    {
+      "id": "DSC_0224",
+      "class_id": 0
+    },
+    {
+      "id": "DSC_0225",
+      "class_id": 0
+    },
+    {
+      "id": "DSC_0226",
+      "class_id": 0
+    },
+    {
+      "id": "DSC_0227",
+      "class_id": 0
+    },
+    {
+      "id": "DSC_0229",
+      "class_id": 0
+    },
+    {
+      "id": "DSC_0230",
+      "class_id": 0
+    },
+    {
+      "id": "DSC_0231",
+      "class_id": 0
+    },
+    {
+      "id": "DSC_0232",
+      "class_id": 0
+    },
+    {
+      "id": "DSC_0233",
+      "class_id": 0
+    },
+    {
+      "id": "DSC_0234",
+      "class_id": 0
+    },
+    {
+      "id": "DSC_0235",
+      "class_id": 0
+    },
+    {
+      "id": "DSC_0236",
+      "class_id": 0
+    },
+    {
+      "id": "DSC_0238",
+      "class_id": 0
+    },
+    {
+      "id": "DSC_0307",
+      "class_id": 0
+    },
+    {
+      "id": "DSC_0308",
+      "class_id": 0
+    },
+    {
+      "id": "DSC_0309",
+      "class_id": 0
+    },
+    {
+      "id": "DSC_0310",
+      "class_id": 0
+    },
+    {
+      "id": "DSC_0311_pindah",
+      "class_id": 0
+    },
+    {
+      "id": "DSC_0312",
+      "class_id": 0
+    },
+    {
+      "id": "DSC_0315",
+      "class_id": 0
+    },
+    {
+      "id": "DSC_0316",
+      "class_id": 0
+    },
+    {
+      "id": "DSC_0318",
+      "class_id": 0
+    },
+    {
+      "id": "DSC_0319",
+      "class_id": 1
+    },
+    {
+      "id": "DSC_0320",
+      "class_id": 1
+    },
+    {
+      "id": "DSC_0345",
+      "class_id": 0
+    },
+    {
+      "id": "DSC_0359",
+      "class_id": 0
+    },
+    {
+      "id": "DSC_0362",
+      "class_id": 0
+    },
+    {
+      "id": "DSC_0363",
+      "class_id": 0
+    },
+    {
+      "id": "DSC_0365",
+      "class_id": 0
+    },
+    {
+      "id": "DSC_0367",
+      "class_id": 0
+    },
+    {
+      "id": "DSC_0379",
+      "class_id": 0
+    },
+    {
+      "id": "DSC_0396",
+      "class_id": 0
+    },
+    {
+      "id": "DSC_0397",
+      "class_id": 0
+    },
+    {
+      "id": "DSC_0429",
+      "class_id": 0
+    },
+    {
+      "id": "DSC_0431",
+      "class_id": 0
+    },
+    {
+      "id": "DSC_0433",
+      "class_id": 0
+    },
+    {
+      "id": "DSC_0434",
+      "class_id": 0
+    },
+    {
+      "id": "DSC_0435",
+      "class_id": 0
+    },
+    {
+      "id": "DSC_0436",
+      "class_id": 0
+    },
+    {
+      "id": "DSC_0437",
+      "class_id": 0
+    },
+    {
+      "id": "DSC_0440",
+      "class_id": 0
+    },
+    {
+      "id": "oke1028",
+      "class_id": 1
+    },
+    {
+      "id": "oke1207",
+      "class_id": 1
+    },
+    {
+      "id": "oke1312",
+      "class_id": 1
+    },
+    {
+      "id": "oke1348",
+      "class_id": 1
+    },
+    {
+      "id": "oke1484",
+      "class_id": 1
+    },
+    {
+      "id": "oke1725",
+      "class_id": 1
+    },
+    {
+      "id": "oke1815",
+      "class_id": 1
+    },
+    {
+      "id": "oke1848",
+      "class_id": 1
+    },
+    {
+      "id": "oke1964",
+      "class_id": 1
+    },
+    {
+      "id": "oke1973",
+      "class_id": 1
+    },
+    {
+      "id": "oke1981",
+      "class_id": 1
+    },
+    {
+      "id": "oke215",
+      "class_id": 1
+    },
+    {
+      "id": "oke2171",
+      "class_id": 1
+    },
+    {
+      "id": "oke2212",
+      "class_id": 1
+    },
+    {
+      "id": "oke2222",
+      "class_id": 1
+    },
+    {
+      "id": "oke2486",
+      "class_id": 1
+    },
+    {
+      "id": "oke2605",
+      "class_id": 1
+    },
+    {
+      "id": "oke2647",
+      "class_id": 1
+    },
+    {
+      "id": "oke2697",
+      "class_id": 1
+    },
+    {
+      "id": "oke3178",
+      "class_id": 1
+    },
+    {
+      "id": "oke319",
+      "class_id": 1
+    },
+    {
+      "id": "oke32",
+      "class_id": 1
+    },
+    {
+      "id": "oke3388",
+      "class_id": 1
+    },
+    {
+      "id": "oke340",
+      "class_id": 1
+    },
+    {
+      "id": "oke3510",
+      "class_id": 1
+    },
+    {
+      "id": "oke3555",
+      "class_id": 1
+    },
+    {
+      "id": "oke3575",
+      "class_id": 1
+    },
+    {
+      "id": "oke364",
+      "class_id": 1
+    },
+    {
+      "id": "oke3787",
+      "class_id": 1
+    },
+    {
+      "id": "oke3844",
+      "class_id": 1
+    },
+    {
+      "id": "oke3900",
+      "class_id": 1
+    },
+    {
+      "id": "oke4032",
+      "class_id": 1
+    },
+    {
+      "id": "oke4238",
+      "class_id": 1
+    },
+    {
+      "id": "oke4273",
+      "class_id": 1
+    },
+    {
+      "id": "oke4328",
+      "class_id": 1
+    },
+    {
+      "id": "oke4464",
+      "class_id": 1
+    },
+    {
+      "id": "oke455",
+      "class_id": 1
+    },
+    {
+      "id": "oke4573",
+      "class_id": 1
+    },
+    {
+      "id": "oke4709",
+      "class_id": 1
+    },
+    {
+      "id": "oke5045",
+      "class_id": 1
+    },
+    {
+      "id": "oke5154",
+      "class_id": 1
+    },
+    {
+      "id": "oke5216",
+      "class_id": 1
+    },
+    {
+      "id": "oke5277",
+      "class_id": 1
+    },
+    {
+      "id": "oke5353",
+      "class_id": 1
+    },
+    {
+      "id": "oke575",
+      "class_id": 1
+    },
+    {
+      "id": "oke5796",
+      "class_id": 1
+    },
+    {
+      "id": "oke5996",
+      "class_id": 1
+    },
+    {
+      "id": "oke6116",
+      "class_id": 1
+    },
+    {
+      "id": "oke6272",
+      "class_id": 1
+    },
+    {
+      "id": "oke6292",
+      "class_id": 1
+    },
+    {
+      "id": "oke6449",
+      "class_id": 1
+    },
+    {
+      "id": "oke6509",
+      "class_id": 1
+    },
+    {
+      "id": "oke6594",
+      "class_id": 1
+    },
+    {
+      "id": "oke6976",
+      "class_id": 1
+    },
+    {
+      "id": "oke7148",
+      "class_id": 1
+    },
+    {
+      "id": "oke7547",
+      "class_id": 1
+    },
+    {
+      "id": "oke7876",
+      "class_id": 1
+    },
+    {
+      "id": "oke8005",
+      "class_id": 1
+    },
+    {
+      "id": "oke8184",
+      "class_id": 1
+    },
+    {
+      "id": "oke8442",
+      "class_id": 1
+    },
+    {
+      "id": "oke864",
+      "class_id": 1
+    },
+    {
+      "id": "oke8798",
+      "class_id": 1
+    },
+    {
+      "id": "oke888",
+      "class_id": 1
+    },
+    {
+      "id": "oke9326",
+      "class_id": 1
+    },
+    {
+      "id": "oke9380",
+      "class_id": 1
+    },
+    {
+      "id": "oke9618",
+      "class_id": 1
+    },
+    {
+      "id": "oke9700",
+      "class_id": 1
+    },
+    {
+      "id": "oke9926",
+      "class_id": 1
+    }
+  ],
+  "added": [],
+  "validation": 87,
+  "counts": {
+    "real": 301,
+    "added": 0,
+    "validation": 87,
+    "real_per_class": {
+      "0": 217,
+      "1": 84
+    },
+    "added_per_class": {},
+    "total_per_class": {
+      "0": 217,
+      "1": 84
+    },
+    "unripe_to_ripe": 0.3871
+  },
+  "excluded": [
+    "DSC_0093"
+  ],
+  "note": "full train split plus added images; full frames only; test split not read"
+}

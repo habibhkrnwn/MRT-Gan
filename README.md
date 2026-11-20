@@ -94,7 +94,7 @@ The GitHub Release of this repository holds the files that are too large for git
 | `candidates.zip` | All 217 generated candidates per generator and ablation (Table 2) |
 | `candidates_inpaint_baseline.zip`, `candidates_anchor_baseline.zip` | Candidates of the two diffusion baselines (Table 2) |
 | `masks_and_splits.zip` | Training fruit masks, crop manifest, colour statistics, photograph split, capture-group and near-duplicate lists |
-| `*_result.zip` (kernels 29, 30, 31, 33, 36, 37) | Result archives of the revision runs, with SHA-256 files |
+| `<session>_runs_no_weights.zip` (kernels 30, 31, 33, 36, 37) | Every detector run of the revision sessions without the `.pt` weights: per-image validation predictions (`predictions.coco.json`), ground truth, arm manifests, loss and validation histories, run summaries |
 | `SHA256SUMS` | Checksums; verify with `sha256sum -c SHA256SUMS` |
 
 The released images and masks are derived from the Puspalebo dataset and keep its CC BY 4.0 licence.
@@ -108,7 +108,8 @@ The released images and masks are derived from the Puspalebo dataset and keep it
 | `splits_masks/` | `split_ids.csv` (every photograph with its group, capture session, split, exclusion flag and SHA-256), `groups.csv`, `near_duplicates.csv`, `crops_manifest.json`, and the colour-centroid statistics and margin calibration (`color_centroids.json`, `color_margin.json`). The mask images themselves are in `masks_and_splits.zip` in the Release. |
 | `screening/ranking/<session>/` | Ranking of candidates by the summed absolute log ratio over five texture measures (`rank`, `used`, `parent_id`, `distance`, the five measures). `ranking_MRTGAN_s12.csv` and `ranking_colour_transfer.csv` list the accepted candidates and the 22 used; `ranking_unscreened_*` list all candidates for the ranking-only baseline comparison. The MRT-GAN rankings of the sessions agree up to the fifth decimal. |
 | `predictions/<session>/paste_log.json` | Scene photograph and source fruit of every added image (`paste_real` control, Table 5 scene counts) |
-| `predictions/<session>/*_result.sha256` | SHA-256 of the result archive of each detector session (archives in the Release) |
+| `predictions/<session>/runs/` | Arm manifests (which images each arm added), `results.json` per group, and `run_summary.json`, `validation.json` and `identity.json` per arm and seed; the full runs with per-image predictions are in `<session>_runs_no_weights.zip` in the Release |
+| `predictions/<session>/*_result.sha256` | SHA-256 of the original Kaggle result archive of each detector session (with weights; available on request) |
 | `baselines/INPAINT`, `baselines/ANCHOR` | Settings (`summary.json`), training items and per-seed candidate records with parent IDs for the two diffusion baselines |
 | `checkpoints/r512_ablation/` | SHA-256 of the matched 512-pixel ablation archive (kernel 29) |
 | `kernel_logs/` | Dated Kaggle run logs of kernels 29-37 |

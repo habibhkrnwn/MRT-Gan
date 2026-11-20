@@ -1,0 +1,91 @@
+{
+  "identity": {
+    "version": "melon-benchmark-1.0",
+    "arm": "oversample_k44",
+    "seed": 1,
+    "updates": 3000,
+    "batch": 8,
+    "lr": 0.0001,
+    "architecture": "yolov8n",
+    "image_size": 640,
+    "counts": {
+      "real": 301,
+      "added": 44,
+      "validation": 87,
+      "real_per_class": {
+        "0": 217,
+        "1": 84
+      },
+      "added_per_class": {
+        "1": 44
+      },
+      "total_per_class": {
+        "0": 217,
+        "1": 128
+      },
+      "unripe_to_ripe": 0.5899
+    },
+    "code": "75dc3df4e0ee96c3cfb82b5f0f2b8e1271817e284da03199e4ec1e9934798c02",
+    "scope": "full train split plus added images; full frames only; test split not read"
+  },
+  "training_seconds": 1111.3,
+  "validation": {
+    "map50_95": 0.9888722580645162,
+    "map50": 0.995,
+    "per_class": {
+      "ripe": {
+        "ap50_95": 0.9870645161290321
+      },
+      "unripe": {
+        "ap50_95": 0.99068
+      }
+    },
+    "precision": [
+      0.9991792772567156,
+      0.9977740785692584
+    ],
+    "recall": [
+      1.0,
+      1.0
+    ]
+  },
+  "selected": {
+    "update": 1250,
+    "validation": {
+      "map50_95": 0.9903870967741938,
+      "map50": 0.995,
+      "per_class": {
+        "ripe": {
+          "ap50_95": 0.9857741935483872
+        },
+        "unripe": {
+          "ap50_95": 0.9949999999999999
+        }
+      },
+      "precision": [
+        0.9986225162618267,
+        0.998096971854079
+      ],
+      "recall": [
+        1.0,
+        1.0
+      ]
+    },
+    "weights": "weights_selected.pt",
+    "rule": "best validation mAP50:95 over periodic evaluations and the final state"
+  },
+  "export": {
+    "images": 87,
+    "annotations": 87,
+    "predictions": 4763,
+    "conf": 0.001,
+    "max_det": 100,
+    "note": "class-aware NMS only; class bias and cross-class NMS are left to the caller"
+  },
+  "weights": {
+    "path": "weights.pt",
+    "bytes": 12209081
+  },
+  "eval_every": 250,
+  "test_used": false
+}
