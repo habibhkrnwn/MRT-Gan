@@ -1,0 +1,8 @@
+view,valid_id,nearest_train_id,hamming_bits,excluded_in_sensitivity
+fruit,oke5793,oke319,9,1
+fruit,oke5798,DSC_0106,12,1
+fruit,oke6396,DSC_0103,10,1
+fruit,oke7065,oke8184,10,1
+fruit,oke7526,oke2486,19,1
+padded_10pct,oke6396,DSC_0103,5,1
+padded_10pct,oke7065,oke8184,8,1

@@ -105,6 +105,7 @@ The released images and masks are derived from the Puspalebo dataset and keep it
 
 | Folder | Contents |
 |---|---|
+| `splits_masks/` | `split_ids.csv` (every photograph with its group, capture session, split, exclusion flag and SHA-256), `groups.csv`, `near_duplicates.csv`, `crops_manifest.json`, and the colour-centroid statistics and margin calibration (`color_centroids.json`, `color_margin.json`). The mask images themselves are in `masks_and_splits.zip` in the Release. |
 | `screening/ranking/<session>/` | Ranking of candidates by the summed absolute log ratio over five texture measures (`rank`, `used`, `parent_id`, `distance`, the five measures). `ranking_MRTGAN_s12.csv` and `ranking_colour_transfer.csv` list the accepted candidates and the 22 used; `ranking_unscreened_*` list all candidates for the ranking-only baseline comparison. The MRT-GAN rankings of the sessions agree up to the fifth decimal. |
 | `predictions/<session>/paste_log.json` | Scene photograph and source fruit of every added image (`paste_real` control, Table 5 scene counts) |
 | `predictions/<session>/*_result.sha256` | SHA-256 of the result archive of each detector session (archives in the Release) |

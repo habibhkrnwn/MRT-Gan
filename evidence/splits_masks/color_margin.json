@@ -1,0 +1,48 @@
+{
+  "version": "melon-cyclegan-1.0",
+  "source": "train split real crops",
+  "crops": "Ujicoba CycleGAN/G0X_EMA/runs/05_texture_study/p100/crops",
+  "crops_digest": "8cec926af44bd080b0b3e052a7b92afa2eedf2e051c361e2a7e3bf9045b9afe5",
+  "centroids_sha256": "df1dfd158851a54e431695b068e4224feac0fad182a487fa9ef958c30b50938d",
+  "dims": [
+    "mean Cr",
+    "mean a*/128"
+  ],
+  "scale": [
+    0.018770107999444008,
+    0.02618594840168953
+  ],
+  "percentile": 10.0,
+  "margin": 1.5907,
+  "per_domain": {
+    "A": {
+      "class_name": "unripe",
+      "n": 81,
+      "gap_percentile": 1.5907189846038818,
+      "gap_median": 5.64349365234375,
+      "gap_min": -3.0103225708007812,
+      "share_on_own_side": 0.9506172839506173,
+      "overlap_ids": [
+        "DSC_0182",
+        "DSC_0319",
+        "DSC_0320",
+        "oke6272"
+      ],
+      "share_zero_loss_at_margin": 0.9012345671653748
+    },
+    "B": {
+      "class_name": "ripe",
+      "n": 217,
+      "gap_percentile": 2.50644588470459,
+      "gap_median": 5.286304473876953,
+      "gap_min": -4.108473777770996,
+      "share_on_own_side": 0.9861751152073732,
+      "overlap_ids": [
+        "DSC_0050",
+        "DSC_0172",
+        "DSC_0307"
+      ],
+      "share_zero_loss_at_margin": 0.9493087530136108
+    }
+  }
+}
