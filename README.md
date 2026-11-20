@@ -26,7 +26,7 @@ The dataset is the public Puspalebo golden-melon dataset from its authors (Umar 
 | Kaggle notebooks with their `kernel-metadata.json` (GPU runs) | `notebooks/` |
 | Local scripts that compute the tables and figures | `analysis/` |
 | Old-to-new path map and SHA-256 manifest of copied files | `docs/` |
-| Generator and detector weights, all generated candidates, fruit masks, split identifiers | GitHub Release of this repository (see below) |
+| Generator weights, all generated candidates, fruit masks, split identifiers, detector-run archives | GitHub Release of this repository (see below) |
 | Screening records, farmer ratings, per-image predictions | `evidence/` where released; otherwise from the corresponding author on request |
 
 ## Repository layout
@@ -90,7 +90,6 @@ The GitHub Release of this repository holds the files that are too large for git
 | File | Contents |
 |---|---|
 | `weights.zip` | MRT-GAN EMA generator weights, seeds 11, 12, 13, and the generators without RGB texture discriminators |
-| `detectors_kernel27_selected.zip` | Selected YOLOv8n weights per arm and seed (session S1) |
 | `candidates.zip` | All 217 generated candidates per generator and ablation (Table 2) |
 | `candidates_inpaint_baseline.zip`, `candidates_anchor_baseline.zip` | Candidates of the two diffusion baselines (Table 2) |
 | `masks_and_splits.zip` | Training fruit masks, crop manifest, colour statistics, photograph split, capture-group and near-duplicate lists |
@@ -98,6 +97,10 @@ The GitHub Release of this repository holds the files that are too large for git
 | `SHA256SUMS` | Checksums; verify with `sha256sum -c SHA256SUMS` |
 
 The released images and masks are derived from the Puspalebo dataset and keep its CC BY 4.0 licence.
+
+YOLOv8n detector weights are not part of the release because of their size (about 1.4 GB per detector
+session); every detector run is documented by its logs, validation history and per-image predictions, and the
+weights are available from the corresponding author on request.
 
 ## Evidence
 
