@@ -65,17 +65,18 @@ docs/
 
 | Paper item | Notebook(s) | Analysis script(s) |
 |---|---|---|
-| Table 1, partition and capture sessions | – | `code/mrtgan/tools/audit_split_leakage.py`, `analysis/sensitivity_near_duplicates/sens.py` |
+| Fig. 1, overall framework | – | drawn by hand, no script |
+| Table 1, partition and capture sessions | – | counts from `evidence/splits_masks/split_ids.csv` and `groups.csv`; near-duplicate audit `code/mrtgan/tools/audit_split_leakage.py`; mAP sensitivity `analysis/sensitivity_near_duplicates/sens.py` |
 | Fig. 2, MRT-GAN architecture | – | `analysis/table2_generator_ablation/generator_r512/build_generator_figures.py` |
 | Table 2, generator ablation and baselines | `generator/13`, `22`-`26`, `29`, `34`, `35` | `analysis/table2_generator_ablation/` (FID/KID, spectral and colour diagnostics, `nyquist_seed_ratios.py`) |
-| Fig. 3, ablation examples | `generator/25`, `26` | `analysis/paper_build/build_image_figures.py` |
+| Fig. 3, ablation examples (parents DSC_0031, DSC_0163) | `generator/25`, `26` | `analysis/table2_generator_ablation/generator_r512/build_generator_figures.py` (`generator_ablation_panel.png`) |
 | Table 3, shortcut probes | `detector/S1_main_arms/27` | `analysis/table3_shortcut_probes/` |
-| Table 4, background swap and fruit-only | `detector/S1_main_arms/27`, `28_fruitonly_m00`, `28_fruitonly_m15` | `analysis/table4_background_swap/` |
+| Table 4, background swap and fruit-only | `detector/S1_main_arms/27`, `28_fruitonly_m00`, `28_fruitonly_m15` | `analysis/table4_background_swap/bg_swap.py` (swap inference), `bg_swap_paired_reproduce.py`, `analysis/revision_checks/round1_cpu/round1_cpu.py` (seed-level sign tests, two-way bootstrap) |
 | Fig. 4, background-swap examples | – | `analysis/table4_background_swap/build_swap_figure.py` |
-| Table 5, exposure and scene controls | `detector/S2_k_paste_real/30`, `heldout_dsc_folds/31`, `S3_inpainting_baseline/33`, `S4_anchordiffusion_baseline/36`, `37` | `analysis/table4_background_swap/bg_swap.py` applied to each session |
-| Table 6, blinded farmer assessment | – | `analysis/table6_farmer_assessment/` |
+| Table 5, exposure and scene controls; held-out DSC folds; ranking-only baselines | `detector/S2_k_paste_real/30`, `heldout_dsc_folds/31`, `S3_inpainting_baseline/33`, `S4_anchordiffusion_baseline/36`, `37` | detector runs and arm manifests in `evidence/predictions/`; the swap scoring of these sessions and the donor/background sensitivity analyses (salted donors, gray, COCO, unfeathered mask) belong to the revision code available on request |
+| Table 6 and Section 4.7, blinded farmer assessment | – | pack builders in `analysis/table6_farmer_assessment/` (`kappa/`, `calibrated_review/`, `heldout_candidates/`); `kappa/analyze.py` computes kappa, Wilson intervals and Fisher tests; ratings are available on request |
 | Fig. 5, Grad-CAM | `detector/S1_main_arms/27` | `analysis/figures/detector_postanalysis/build_gradcam_r512.py` |
-| Screening counts (22/217, 56/217) and agent-log audit | `development/15`, `19` | `code/screening/screening_summary.py`, `code/screening/agent_log_audit.py` |
+| Screening counts (22/217, 56/217) and agent-log audit | – | blinded packs `code/screening/mrtgan/`, `code/screening/g3ti/`; `code/screening/screening_summary.py`, `code/screening/agent_log_audit.py`; rankings in `evidence/screening/ranking/` |
 | Exploratory decision layer (Section 4.8) | – | `analysis/decision_layer/` |
 
 Internal run names: `G3TI_R512` (and `_s12`, `_s13`, `MRTGAN_s12` in detector runs) is MRT-GAN;
