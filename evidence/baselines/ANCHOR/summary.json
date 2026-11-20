@@ -1,0 +1,17 @@
+{
+ "baseline": "AnchorDiffusion inference, study masks",
+ "config": "B",
+ "saturation": {
+  "A": 0.9417711974429434
+ },
+ "prompt": "turn the melon into an unripe green melon",
+ "steps": 25,
+ "beta": 0.01,
+ "seeds": [
+  11,
+  12,
+  13
+ ],
+ "diffusers": "0.30.3",
+ "test_used": false
+}

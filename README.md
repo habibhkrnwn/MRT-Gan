@@ -22,6 +22,7 @@ The dataset is the public Puspalebo golden-melon dataset from its authors (Umar 
 | MRT-GAN package, training/export tools, configs, unit tests | `code/mrtgan/` |
 | Detector training, screening and ranking utilities | `code/detector/` |
 | Screening-pack builders and screening summaries | `code/screening/` |
+| Inference scripts of the two diffusion baselines | `code/baselines/` |
 | Kaggle notebooks with their `kernel-metadata.json` (GPU runs) | `notebooks/` |
 | Local scripts that compute the tables and figures | `analysis/` |
 | Old-to-new path map and SHA-256 manifest of copied files | `docs/` |
@@ -100,10 +101,24 @@ The released images and masks are derived from the Puspalebo dataset and keep it
 
 ## Evidence
 
-`evidence/` holds the small files behind the reported numbers: split and exclusion lists, detector seed and
-checkpoint mappings, calibration and threshold records, lock files, and per-image predictions for the detector
-sessions. Screening records, human ratings and any file that would unblind the assessors are available to the
-editor and reviewers from the corresponding author on request.
+`evidence/` holds the small files behind the reported numbers, copied from the Kaggle kernel outputs:
+
+| Folder | Contents |
+|---|---|
+| `screening/ranking/<session>/` | Ranking of candidates by the summed absolute log ratio over five texture measures (`rank`, `used`, `parent_id`, `distance`, the five measures). `ranking_MRTGAN_s12.csv` and `ranking_colour_transfer.csv` list the accepted candidates and the 22 used; `ranking_unscreened_*` list all candidates for the ranking-only baseline comparison. The MRT-GAN rankings of the sessions agree up to the fifth decimal. |
+| `predictions/<session>/paste_log.json` | Scene photograph and source fruit of every added image (`paste_real` control, Table 5 scene counts) |
+| `predictions/<session>/*_result.sha256` | SHA-256 of the result archive of each detector session (archives in the Release) |
+| `baselines/INPAINT`, `baselines/ANCHOR` | Settings (`summary.json`), training items and per-seed candidate records with parent IDs for the two diffusion baselines |
+| `checkpoints/r512_ablation/` | SHA-256 of the matched 512-pixel ablation archive (kernel 29) |
+| `kernel_logs/` | Dated Kaggle run logs of kernels 29-37 |
+
+Sessions: `S1_main_arms` (kernels 27, 28), `S2_k_paste_real` (30), `heldout_dsc_folds` (31),
+`S3_inpainting_baseline` (33), `S4_anchordiffusion_baseline` (36, and 37 in `heldout_folds/`).
+None of the revision kernels read the test split.
+
+The per-candidate decisions of the screening agent, the prompts as sent, the farmer ratings and the blinding keys
+are not in this repository; they are available to the editor and reviewers from the corresponding author on
+request.
 
 ## Environment
 

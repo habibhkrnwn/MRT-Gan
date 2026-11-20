@@ -1,0 +1,273 @@
+[{"stream_name":"stderr","time":7.072825238,"data":"/usr/local/lib/python3.13/dist-packages/nbformat/validator.py:434: MissingIDFieldWarning: Cell is missing an id field, this will become a hard error in future nbformat versions. You may want to use `normalize()` on your notebooks before validations (available since nbformat 5.1.4). Previous versions of nbformat are fixing this issue transparently, and will stop doing so in the future.\n"}
+,{"stream_name":"stderr","time":7.072870478,"data":"  _validate(nbdict, ref, version, version_minor, relax_add_props)\n"}
+,{"stream_name":"stderr","time":7.984880452,"data":"0.00s - Debugger warning: It seems that frozen modules are being used, which may\n"}
+,{"stream_name":"stderr","time":7.984909387,"data":"0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off\n"}
+,{"stream_name":"stderr","time":7.984914142,"data":"0.00s - to python to disable frozen modules.\n"}
+,{"stream_name":"stderr","time":7.98491784,"data":"0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.\n"}
+,{"stream_name":"stderr","time":8.566063585,"data":"0.00s - Debugger warning: It seems that frozen modules are being used, which may\n"}
+,{"stream_name":"stderr","time":8.566091551,"data":"0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off\n"}
+,{"stream_name":"stderr","time":8.566095837,"data":"0.00s - to python to disable frozen modules.\n"}
+,{"stream_name":"stderr","time":8.566099447,"data":"0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.\n"}
+,{"stream_name":"stdout","time":38.023693375,"data":"code package verified: 151 files\n"}
+,{"stream_name":"stdout","time":55.117426343,"data":"2.11.0+cu130 True\n"}
+,{"stream_name":"stdout","time":59.647422074,"data":"torch 2.11.0+cu130\n"}
+,{"stream_name":"stdout","time":59.647474867,"data":"torchvision 0.26.0+cu130\n"}
+,{"stream_name":"stdout","time":59.647481983,"data":"ultralytics 8.4.163\n"}
+,{"stream_name":"stdout","time":59.647486228,"data":"GPUs 2 ['Tesla T4', 'Tesla T4']\n"}
+,{"stream_name":"stdout","time":575.240105117,"data":"R512 pool {'max_drift': 0.2745869954427083, 'mean_drift': 0.15114270920721476, 'n': 298} 5683bb7d7fb25bdccd7d7fde509b86de11b650cabe9c696c5dd695f9d2f95386\n"}
+,{"stream_name":"stdout","time":581.04566086,"data":"review sha256 0081191b39cdaf5ce70282ba2dcc890727bbfc66c304e82e858875f16a499edd {'MRTGAN_s12': '22/217', 'colour_transfer': '56/217', 'minus_textureD_s12': '0/217', 'initial_config_s12': '0/217'}\n"}
+,{"stream_name":"stdout","time":753.146183514,"data":"integrity {'MRTGAN_s12': {'n': 217, 'max': 8.138020833333333e-05, 'mean': 5.625360023041475e-06}, 'colour_transfer': {'n': 217, 'max': 0.06681315104166667, 'mean': 0.044790241575460826}}\n"}
+,{"stream_name":"stdout","time":764.852115759,"data":"MRTGAN_s12 accepted 22 deficit 133\n"}
+,{"stream_name":"stdout","time":771.066747482,"data":"colour_transfer accepted 56 deficit 133\n"}
+,{"stream_name":"stdout","time":771.066778392,"data":"count-matched additions K = 22\n"}
+,{"stream_name":"stdout","time":774.113527689,"data":"{\n"}
+,{"stream_name":"stdout","time":774.113555107,"data":" \"real_only\": {\n"}
+,{"stream_name":"stdout","time":774.11356111,"data":"  \"real\": 301,\n"}
+,{"stream_name":"stdout","time":774.113565534,"data":"  \"added\": 0,\n"}
+,{"stream_name":"stdout","time":774.113569733,"data":"  \"validation\": 87,\n"}
+,{"stream_name":"stdout","time":774.113573903,"data":"  \"real_per_class\": {\n"}
+,{"stream_name":"stdout","time":774.113578087,"data":"   \"0\": 217,\n"}
+,{"stream_name":"stdout","time":774.113582214,"data":"   \"1\": 84\n"}
+,{"stream_name":"stdout","time":774.113586845,"data":"  },\n"}
+,{"stream_name":"stdout","time":774.113600098,"data":"  \"added_per_class\": {},\n"}
+,{"stream_name":"stdout","time":774.113603493,"data":"  \"total_per_class\": {\n"}
+,{"stream_name":"stdout","time":774.113606798,"data":"   \"0\": 217,\n"}
+,{"stream_name":"stdout","time":774.113609985,"data":"   \"1\": 84\n"}
+,{"stream_name":"stdout","time":774.113613158,"data":"  },\n"}
+,{"stream_name":"stdout","time":774.113616458,"data":"  \"unripe_to_ripe\": 0.3871\n"}
+,{"stream_name":"stdout","time":774.113619665,"data":" },\n"}
+,{"stream_name":"stdout","time":774.113624492,"data":" \"oversample_k22\": {\n"}
+,{"stream_name":"stdout","time":774.11363293,"data":"  \"real\": 301,\n"}
+,{"stream_name":"stdout","time":774.113635333,"data":"  \"added\": 22,\n"}
+,{"stream_name":"stdout","time":774.113637572,"data":"  \"validation\": 87,\n"}
+,{"stream_name":"stdout","time":774.113639787,"data":"  \"real_per_class\": {\n"}
+,{"stream_name":"stdout","time":774.113642077,"data":"   \"0\": 217,\n"}
+,{"stream_name":"stdout","time":774.113644255,"data":"   \"1\": 84\n"}
+,{"stream_name":"stdout","time":774.11364654,"data":"  },\n"}
+,{"stream_name":"stdout","time":774.113648677,"data":"  \"added_per_class\": {\n"}
+,{"stream_name":"stdout","time":774.113651129,"data":"   \"1\": 22\n"}
+,{"stream_name":"stdout","time":774.11365334,"data":"  },\n"}
+,{"stream_name":"stdout","time":774.113655748,"data":"  \"total_per_class\": {\n"}
+,{"stream_name":"stdout","time":774.113657949,"data":"   \"0\": 217,\n"}
+,{"stream_name":"stdout","time":774.113660137,"data":"   \"1\": 106\n"}
+,{"stream_name":"stdout","time":774.113662331,"data":"  },\n"}
+,{"stream_name":"stdout","time":774.113664455,"data":"  \"unripe_to_ripe\": 0.4885\n"}
+,{"stream_name":"stdout","time":774.113666698,"data":" },\n"}
+,{"stream_name":"stdout","time":774.113668859,"data":" \"colour_transfer_k22\": {\n"}
+,{"stream_name":"stdout","time":774.113671116,"data":"  \"real\": 301,\n"}
+,{"stream_name":"stdout","time":774.113673392,"data":"  \"added\": 22,\n"}
+,{"stream_name":"stdout","time":774.11367558,"data":"  \"validation\": 87,\n"}
+,{"stream_name":"stdout","time":774.11367787,"data":"  \"real_per_class\": {\n"}
+,{"stream_name":"stdout","time":774.113680083,"data":"   \"0\": 217,\n"}
+,{"stream_name":"stdout","time":774.11368228,"data":"   \"1\": 84\n"}
+,{"stream_name":"stdout","time":774.113684551,"data":"  },\n"}
+,{"stream_name":"stdout","time":774.113686708,"data":"  \"added_per_class\": {\n"}
+,{"stream_name":"stdout","time":774.113688978,"data":"   \"1\": 22\n"}
+,{"stream_name":"stdout","time":774.113691149,"data":"  },\n"}
+,{"stream_name":"stdout","time":774.113693277,"data":"  \"total_per_class\": {\n"}
+,{"stream_name":"stdout","time":774.113695483,"data":"   \"0\": 217,\n"}
+,{"stream_name":"stdout","time":774.113697669,"data":"   \"1\": 106\n"}
+,{"stream_name":"stdout","time":774.11369987,"data":"  },\n"}
+,{"stream_name":"stdout","time":774.113701995,"data":"  \"unripe_to_ripe\": 0.4885,\n"}
+,{"stream_name":"stdout","time":774.113704261,"data":"  \"accepted\": 56,\n"}
+,{"stream_name":"stdout","time":774.11370649,"data":"  \"full_balance\": false\n"}
+,{"stream_name":"stdout","time":774.11370874,"data":" },\n"}
+,{"stream_name":"stdout","time":774.113710867,"data":" \"mrtgan_k22\": {\n"}
+,{"stream_name":"stdout","time":774.113713101,"data":"  \"real\": 301,\n"}
+,{"stream_name":"stdout","time":774.113715303,"data":"  \"added\": 22,\n"}
+,{"stream_name":"stdout","time":774.113717521,"data":"  \"validation\": 87,\n"}
+,{"stream_name":"stdout","time":774.113722363,"data":"  \"real_per_class\": {\n"}
+,{"stream_name":"stdout","time":774.113724683,"data":"   \"0\": 217,\n"}
+,{"stream_name":"stdout","time":774.113729172,"data":"   \"1\": 84\n"}
+,{"stream_name":"stdout","time":774.113732093,"data":"  },\n"}
+,{"stream_name":"stdout","time":774.113734382,"data":"  \"added_per_class\": {\n"}
+,{"stream_name":"stdout","time":774.11373668,"data":"   \"1\": 22\n"}
+,{"stream_name":"stdout","time":774.113738994,"data":"  },\n"}
+,{"stream_name":"stdout","time":774.113758704,"data":"  \"total_per_class\": {\n"}
+,{"stream_name":"stdout","time":774.113762482,"data":"   \"0\": 217,\n"}
+,{"stream_name":"stdout","time":774.113766253,"data":"   \"1\": 106\n"}
+,{"stream_name":"stdout","time":774.11376979,"data":"  },\n"}
+,{"stream_name":"stdout","time":774.113773082,"data":"  \"unripe_to_ripe\": 0.4885,\n"}
+,{"stream_name":"stdout","time":774.113777067,"data":"  \"accepted\": 22,\n"}
+,{"stream_name":"stdout","time":774.113780773,"data":"  \"full_balance\": false\n"}
+,{"stream_name":"stdout","time":774.113784432,"data":" }\n"}
+,{"stream_name":"stdout","time":774.113787608,"data":"}\n"}
+,{"stream_name":"stdout","time":874.876958674,"data":"['real_only', 'mrtgan_unscreened_k22', 'inpaint_unscreened_k22', 'anchor_unscreened_k22']\n"}
+,{"stream_name":"stdout","time":1056.232964416,"data":"pre-letterbox identity ok\n"}
+,{"stream_name":"stdout","time":6771.659471149,"data":"return codes [0, 0, 0, 0] wall minutes 95.3\n"}
+,{"stream_name":"stdout","time":6771.660757193,"data":"    mAP50  mAP50-95): 100% ━━━━━━━━━━━━ 6/6 3.2it/s 1.9s\n"}
+,{"stream_name":"stdout","time":6771.660779566,"data":"                   all         87         87      0.999          1      0.995      0.989\n"}
+,{"stream_name":"stdout","time":6771.660785277,"data":"Speed: 0.9ms preprocess, 3.5ms inference, 0.0ms loss, 2.4ms postprocess per image\n"}
+,{"stream_name":"stdout","time":6771.660789693,"data":"{\n"}
+,{"stream_name":"stdout","time":6771.66079384,"data":" \"arm\": \"real_only\",\n"}
+,{"stream_name":"stdout","time":6771.660798916,"data":" \"seed\": 4,\n"}
+,{"stream_name":"stdout","time":6771.660803113,"data":" \"seconds\": 1123.8,\n"}
+,{"stream_name":"stdout","time":6771.66080738,"data":" \"map50_95\": 0.9891432258064518,\n"}
+,{"stream_name":"stdout","time":6771.660811831,"data":" \"map50\": 0.995,\n"}
+,{"stream_name":"stdout","time":6771.660816086,"data":" \"per_class\": {\n"}
+,{"stream_name":"stdout","time":6771.660820316,"data":"  \"ripe\": {\n"}
+,{"stream_name":"stdout","time":6771.66082453,"data":"   \"ap50_95\": 0.9908064516129033\n"}
+,{"stream_name":"stdout","time":6771.66082909,"data":"  },\n"}
+,{"stream_name":"stdout","time":6771.660833886,"data":"  \"unripe\": {\n"}
+,{"stream_name":"stdout","time":6771.660838101,"data":"   \"ap50_95\": 0.98748\n"}
+,{"stream_name":"stdout","time":6771.660842673,"data":"  }\n"}
+,{"stream_name":"stdout","time":6771.660846667,"data":" },\n"}
+,{"stream_name":"stdout","time":6771.660850689,"data":" \"precision\": [\n"}
+,{"stream_name":"stdout","time":6771.660854803,"data":"  0.9992172712731054,\n"}
+,{"stream_name":"stdout","time":6771.660859165,"data":"  0.9979283499911601\n"}
+,{"stream_name":"stdout","time":6771.660864076,"data":" ],\n"}
+,{"stream_name":"stdout","time":6771.660880374,"data":" \"recall\": [\n"}
+,{"stream_name":"stdout","time":6771.660885576,"data":"  1.0,\n"}
+,{"stream_name":"stdout","time":6771.660889773,"data":"  1.0\n"}
+,{"stream_name":"stdout","time":6771.660893961,"data":" ]\n"}
+,{"stream_name":"stdout","time":6771.660908655,"data":"}\n"}
+,{"stream_name":"stdout","time":6771.660912465,"data":"{'arm': 'real_only', 'runs': 5, 'map50_95': 0.988701, 'sd': 0.000536, 'ap_unripe': 0.98844, 'recall_unripe': 1.0, 'delta_vs_real': 0.0, 'delta_vs_geometry': None}\n"}
+,{"stream_name":"stdout","time":6771.660916392,"data":"paired seeds, fixed update budget; an arm that does not beat geometry is not evidence for synthesis\n"}
+,{"stream_name":"stdout","time":6771.66092082,"data":"\n"}
+,{"stream_name":"stdout","time":6771.66092399,"data":" ━━━━━━━━━━━━ 6/6 2.5it/s 2.4s\n"}
+,{"stream_name":"stdout","time":6771.66092775,"data":"                   all         87         87      0.999          1      0.995      0.986\n"}
+,{"stream_name":"stdout","time":6771.660931343,"data":"Speed: 1.6ms preprocess, 3.4ms inference, 0.0ms loss, 2.7ms postprocess per image\n"}
+,{"stream_name":"stdout","time":6771.66093447,"data":"{\n"}
+,{"stream_name":"stdout","time":6771.660938095,"data":" \"arm\": \"mrtgan_unscreened_k22\",\n"}
+,{"stream_name":"stdout","time":6771.660942385,"data":" \"seed\": 4,\n"}
+,{"stream_name":"stdout","time":6771.66094603,"data":" \"seconds\": 1118.0,\n"}
+,{"stream_name":"stdout","time":6771.66094974,"data":" \"map50_95\": 0.9862077419354838,\n"}
+,{"stream_name":"stdout","time":6771.660953553,"data":" \"map50\": 0.995,\n"}
+,{"stream_name":"stdout","time":6771.660956973,"data":" \"per_class\": {\n"}
+,{"stream_name":"stdout","time":6771.660960163,"data":"  \"ripe\": {\n"}
+,{"stream_name":"stdout","time":6771.660963428,"data":"   \"ap50_95\": 0.9849354838709676\n"}
+,{"stream_name":"stdout","time":6771.66096685,"data":"  },\n"}
+,{"stream_name":"stdout","time":6771.660969978,"data":"  \"unripe\": {\n"}
+,{"stream_name":"stdout","time":6771.660973192,"data":"   \"ap50_95\": 0.98748\n"}
+,{"stream_name":"stdout","time":6771.660976525,"data":"  }\n"}
+,{"stream_name":"stdout","time":6771.660979658,"data":" },\n"}
+,{"stream_name":"stdout","time":6771.660982773,"data":" \"precision\": [\n"}
+,{"stream_name":"stdout","time":6771.660986016,"data":"  0.9991677600358837,\n"}
+,{"stream_name":"stdout","time":6771.660989923,"data":"  0.9980247627514531\n"}
+,{"stream_name":"stdout","time":6771.660993616,"data":" ],\n"}
+,{"stream_name":"stdout","time":6771.660997524,"data":" \"recall\": [\n"}
+,{"stream_name":"stdout","time":6771.661001256,"data":"  1.0,\n"}
+,{"stream_name":"stdout","time":6771.661004995,"data":"  1.0\n"}
+,{"stream_name":"stdout","time":6771.661008189,"data":" ]\n"}
+,{"stream_name":"stdout","time":6771.661011343,"data":"}\n"}
+,{"stream_name":"stdout","time":6771.661014745,"data":"{'arm': 'mrtgan_unscreened_k22', 'runs': 5, 'map50_95': 0.988302, 'sd': 0.001322, 'ap_unripe': 0.988792, 'recall_unripe': 1.0, 'delta_vs_real': None, 'delta_vs_geometry': None}\n"}
+,{"stream_name":"stdout","time":6771.661018484,"data":"paired seeds, fixed update budget; an arm that does not beat geometry is not evidence for synthesis\n"}
+,{"stream_name":"stdout","time":6771.661022821,"data":"\n"}
+,{"stream_name":"stdout","time":6771.661026602,"data":"━━━━━━━━━━━ 6/6 3.5it/s 1.7s\n"}
+,{"stream_name":"stdout","time":6771.661030831,"data":"                   all         87         87      0.999          1      0.995      0.989\n"}
+,{"stream_name":"stdout","time":6771.661035349,"data":"Speed: 0.9ms preprocess, 3.2ms inference, 0.0ms loss, 2.3ms postprocess per image\n"}
+,{"stream_name":"stdout","time":6771.661039306,"data":"{\n"}
+,{"stream_name":"stdout","time":6771.661042859,"data":" \"arm\": \"inpaint_unscreened_k22\",\n"}
+,{"stream_name":"stdout","time":6771.661046267,"data":" \"seed\": 4,\n"}
+,{"stream_name":"stdout","time":6771.661054287,"data":" \"seconds\": 1124.3,\n"}
+,{"stream_name":"stdout","time":6771.661057829,"data":" \"map50_95\": 0.9891406451612905,\n"}
+,{"stream_name":"stdout","time":6771.661061937,"data":" \"map50\": 0.995,\n"}
+,{"stream_name":"stdout","time":6771.661065897,"data":" \"per_class\": {\n"}
+,{"stream_name":"stdout","time":6771.661069677,"data":"  \"ripe\": {\n"}
+,{"stream_name":"stdout","time":6771.661074312,"data":"   \"ap50_95\": 0.9901612903225805\n"}
+,{"stream_name":"stdout","time":6771.661077832,"data":"  },\n"}
+,{"stream_name":"stdout","time":6771.661081017,"data":"  \"unripe\": {\n"}
+,{"stream_name":"stdout","time":6771.661084282,"data":"   \"ap50_95\": 0.98812\n"}
+,{"stream_name":"stdout","time":6771.661087566,"data":"  }\n"}
+,{"stream_name":"stdout","time":6771.661090721,"data":" },\n"}
+,{"stream_name":"stdout","time":6771.661093881,"data":" \"precision\": [\n"}
+,{"stream_name":"stdout","time":6771.661097049,"data":"  0.9992284333920781,\n"}
+,{"stream_name":"stdout","time":6771.661100274,"data":"  0.9979680670660415\n"}
+,{"stream_name":"stdout","time":6771.661103784,"data":" ],\n"}
+,{"stream_name":"stdout","time":6771.661107491,"data":" \"recall\": [\n"}
+,{"stream_name":"stdout","time":6771.661110907,"data":"  1.0,\n"}
+,{"stream_name":"stdout","time":6771.661114234,"data":"  1.0\n"}
+,{"stream_name":"stdout","time":6771.661117394,"data":" ]\n"}
+,{"stream_name":"stdout","time":6771.661120684,"data":"}\n"}
+,{"stream_name":"stdout","time":6771.661123951,"data":"{'arm': 'inpaint_unscreened_k22', 'runs': 5, 'map50_95': 0.988645, 'sd': 0.001129, 'ap_unripe': 0.988252, 'recall_unripe': 1.0, 'delta_vs_real': None, 'delta_vs_geometry': None}\n"}
+,{"stream_name":"stdout","time":6771.661127701,"data":"paired seeds, fixed update budget; an arm that does not beat geometry is not evidence for synthesis\n"}
+,{"stream_name":"stdout","time":6771.661131758,"data":"\n"}
+,{"stream_name":"stdout","time":6771.661135176,"data":"━━━━━ 6/6 2.6it/s 2.3s\n"}
+,{"stream_name":"stdout","time":6771.661138736,"data":"                   all         87         87      0.999          1      0.995      0.989\n"}
+,{"stream_name":"stdout","time":6771.661142169,"data":"Speed: 1.0ms preprocess, 2.8ms inference, 0.0ms loss, 2.5ms postprocess per image\n"}
+,{"stream_name":"stdout","time":6771.661145521,"data":"{\n"}
+,{"stream_name":"stdout","time":6771.661149037,"data":" \"arm\": \"anchor_unscreened_k22\",\n"}
+,{"stream_name":"stdout","time":6771.661153306,"data":" \"seed\": 4,\n"}
+,{"stream_name":"stdout","time":6771.661156944,"data":" \"seconds\": 1115.2,\n"}
+,{"stream_name":"stdout","time":6771.661160285,"data":" \"map50_95\": 0.9887367741935487,\n"}
+,{"stream_name":"stdout","time":6771.66116718,"data":" \"map50\": 0.995,\n"}
+,{"stream_name":"stdout","time":6771.66117063,"data":" \"per_class\": {\n"}
+,{"stream_name":"stdout","time":6771.661173974,"data":"  \"ripe\": {\n"}
+,{"stream_name":"stdout","time":6771.661177514,"data":"   \"ap50_95\": 0.9891935483870968\n"}
+,{"stream_name":"stdout","time":6771.661181454,"data":"  },\n"}
+,{"stream_name":"stdout","time":6771.661184592,"data":"  \"unripe\": {\n"}
+,{"stream_name":"stdout","time":6771.661187864,"data":"   \"ap50_95\": 0.9882799999999999\n"}
+,{"stream_name":"stdout","time":6771.661191317,"data":"  }\n"}
+,{"stream_name":"stdout","time":6771.661194546,"data":" },\n"}
+,{"stream_name":"stdout","time":6771.661197934,"data":" \"precision\": [\n"}
+,{"stream_name":"stdout","time":6771.661201329,"data":"  0.9991845409483655,\n"}
+,{"stream_name":"stdout","time":6771.661204739,"data":"  0.9979236004361903\n"}
+,{"stream_name":"stdout","time":6771.661213244,"data":" ],\n"}
+,{"stream_name":"stdout","time":6771.661216767,"data":" \"recall\": [\n"}
+,{"stream_name":"stdout","time":6771.661220077,"data":"  1.0,\n"}
+,{"stream_name":"stdout","time":6771.661223494,"data":"  1.0\n"}
+,{"stream_name":"stdout","time":6771.661227477,"data":" ]\n"}
+,{"stream_name":"stdout","time":6771.661231061,"data":"}\n"}
+,{"stream_name":"stdout","time":6771.661234669,"data":"{'arm': 'anchor_unscreened_k22', 'runs': 5, 'map50_95': 0.98828, 'sd': 0.00134, 'ap_unripe': 0.98844, 'recall_unripe': 1.0, 'delta_vs_real': None, 'delta_vs_geometry': None}\n"}
+,{"stream_name":"stdout","time":6771.661238401,"data":"paired seeds, fixed update budget; an arm that does not beat geometry is not evidence for synthesis\n"}
+,{"stream_name":"stdout","time":6771.66124189,"data":"\n"}
+,{"stream_name":"stdout","time":6775.018616525,"data":"{\n"}
+,{"stream_name":"stdout","time":6775.018647798,"data":" \"real_only\": {\n"}
+,{"stream_name":"stdout","time":6775.018653207,"data":"  \"map50_95\": 0.9904266042858234,\n"}
+,{"stream_name":"stdout","time":6775.018657216,"data":"  \"sd\": 0.0007021693239853663,\n"}
+,{"stream_name":"stdout","time":6775.01866147,"data":"  \"ap_unripe\": 0.992248,\n"}
+,{"stream_name":"stdout","time":6775.01866527,"data":"  \"per_seed\": [\n"}
+,{"stream_name":"stdout","time":6775.018669004,"data":"   0.9906154838709679,\n"}
+,{"stream_name":"stdout","time":6775.018672863,"data":"   0.9891806451612905,\n"}
+,{"stream_name":"stdout","time":6775.018676025,"data":"   0.9903561290322582,\n"}
+,{"stream_name":"stdout","time":6775.018679258,"data":"   0.9913342293906812,\n"}
+,{"stream_name":"stdout","time":6775.018682416,"data":"   0.9906465339739192\n"}
+,{"stream_name":"stdout","time":6775.018685758,"data":"  ]\n"}
+,{"stream_name":"stdout","time":6775.018688925,"data":" },\n"}
+,{"stream_name":"stdout","time":6775.018692521,"data":" \"mrtgan_unscreened_k22\": {\n"}
+,{"stream_name":"stdout","time":6775.018696465,"data":"  \"map50_95\": 0.9911373645506325,\n"}
+,{"stream_name":"stdout","time":6775.018700201,"data":"  \"sd\": 0.0008179153475686736,\n"}
+,{"stream_name":"stdout","time":6775.018704183,"data":"  \"ap_unripe\": 0.9949999999999999,\n"}
+,{"stream_name":"stdout","time":6775.018707614,"data":"  \"per_seed\": [\n"}
+,{"stream_name":"stdout","time":6775.018710777,"data":"   0.9911504342431764,\n"}
+,{"stream_name":"stdout","time":6775.018715035,"data":"   0.9902840839926965,\n"}
+,{"stream_name":"stdout","time":6775.018718693,"data":"   0.992677419354839,\n"}
+,{"stream_name":"stdout","time":6775.018722787,"data":"   0.9907852651722253,\n"}
+,{"stream_name":"stdout","time":6775.018726426,"data":"   0.9907896199902251\n"}
+,{"stream_name":"stdout","time":6775.018730323,"data":"  ]\n"}
+,{"stream_name":"stdout","time":6775.018734736,"data":" },\n"}
+,{"stream_name":"stdout","time":6775.018738786,"data":" \"inpaint_unscreened_k22\": {\n"}
+,{"stream_name":"stdout","time":6775.018742828,"data":"  \"map50_95\": 0.9903257371565115,\n"}
+,{"stream_name":"stdout","time":6775.018746672,"data":"  \"sd\": 0.001265279692574792,\n"}
+,{"stream_name":"stdout","time":6775.018749996,"data":"  \"ap_unripe\": 0.9910319999999999,\n"}
+,{"stream_name":"stdout","time":6775.018753338,"data":"  \"per_seed\": [\n"}
+,{"stream_name":"stdout","time":6775.018756572,"data":"   0.9894906451612904,\n"}
+,{"stream_name":"stdout","time":6775.018759752,"data":"   0.9898254838709679,\n"}
+,{"stream_name":"stdout","time":6775.018762863,"data":"   0.9889251612903227,\n"}
+,{"stream_name":"stdout","time":6775.018766026,"data":"   0.9925161290322583,\n"}
+,{"stream_name":"stdout","time":6775.018780661,"data":"   0.9908712664277182\n"}
+,{"stream_name":"stdout","time":6775.018784425,"data":"  ]\n"}
+,{"stream_name":"stdout","time":6775.018788153,"data":" },\n"}
+,{"stream_name":"stdout","time":6775.018791758,"data":" \"anchor_unscreened_k22\": {\n"}
+,{"stream_name":"stdout","time":6775.018794797,"data":"  \"map50_95\": 0.9902691935483873,\n"}
+,{"stream_name":"stdout","time":6775.018797842,"data":"  \"sd\": 0.00107226657540978,\n"}
+,{"stream_name":"stdout","time":6775.018800933,"data":"  \"ap_unripe\": 0.99164,\n"}
+,{"stream_name":"stdout","time":6775.018804766,"data":"  \"per_seed\": [\n"}
+,{"stream_name":"stdout","time":6775.018808363,"data":"   0.9892504838709678,\n"}
+,{"stream_name":"stdout","time":6775.01881204,"data":"   0.9898000000000001,\n"}
+,{"stream_name":"stdout","time":6775.018815192,"data":"   0.9923225806451615,\n"}
+,{"stream_name":"stdout","time":6775.018818222,"data":"   0.9897470967741937,\n"}
+,{"stream_name":"stdout","time":6775.018821424,"data":"   0.9902258064516131\n"}
+,{"stream_name":"stdout","time":6775.018824393,"data":"  ]\n"}
+,{"stream_name":"stdout","time":6775.018827383,"data":" }\n"}
+,{"stream_name":"stdout","time":6775.018831255,"data":"}\n"}
+,{"stream_name":"stdout","time":6775.018834576,"data":"zip MB 469\n"}
+,{"stream_name":"stderr","time":6778.245639018,"data":"/usr/local/lib/python3.13/dist-packages/mistune.py:435: SyntaxWarning: invalid escape sequence '\\|'\n"}
+,{"stream_name":"stderr","time":6778.245666596,"data":"  cells[i][c] = re.sub('\\\\\\\\\\|', '|', cell)\n"}
+,{"stream_name":"stderr","time":6778.415268809,"data":"/usr/local/lib/python3.13/dist-packages/nbconvert/filters/filter_links.py:36: SyntaxWarning: invalid escape sequence '\\_'\n"}
+,{"stream_name":"stderr","time":6778.415296817,"data":"  text = re.sub(r'_', '\\_', text) # Escape underscores in display text\n"}
+,{"stream_name":"stderr","time":6779.187957599,"data":"[NbConvertApp] Converting notebook __notebook__.ipynb to notebook\n"}
+,{"stream_name":"stderr","time":6779.264321921,"data":"[NbConvertApp] Writing 41077 bytes to __notebook__.ipynb\n"}
+,{"stream_name":"stderr","time":6781.744442893,"data":"[NbConvertApp] Converting notebook __notebook__.ipynb to html\n"}
+,{"stream_name":"stderr","time":6782.391368593,"data":"[NbConvertApp] Writing 432995 bytes to __results__.html\n"}
+]

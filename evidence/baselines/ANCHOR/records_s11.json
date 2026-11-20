@@ -1,0 +1,1521 @@
+[
+ {
+  "candidate_id": "balance__DSC_0001",
+  "parent_id": "DSC_0001",
+  "full_image": "full/images/balance__DSC_0001.jpg",
+  "full_label": "full/labels/balance__DSC_0001.txt",
+  "image": "images/balance__DSC_0001.png"
+ },
+ {
+  "candidate_id": "balance__DSC_0002",
+  "parent_id": "DSC_0002",
+  "full_image": "full/images/balance__DSC_0002.jpg",
+  "full_label": "full/labels/balance__DSC_0002.txt",
+  "image": "images/balance__DSC_0002.png"
+ },
+ {
+  "candidate_id": "balance__DSC_0003",
+  "parent_id": "DSC_0003",
+  "full_image": "full/images/balance__DSC_0003.jpg",
+  "full_label": "full/labels/balance__DSC_0003.txt",
+  "image": "images/balance__DSC_0003.png"
+ },
+ {
+  "candidate_id": "balance__DSC_0004",
+  "parent_id": "DSC_0004",
+  "full_image": "full/images/balance__DSC_0004.jpg",
+  "full_label": "full/labels/balance__DSC_0004.txt",
+  "image": "images/balance__DSC_0004.png"
+ },
+ {
+  "candidate_id": "balance__DSC_0005",
+  "parent_id": "DSC_0005",
+  "full_image": "full/images/balance__DSC_0005.jpg",
+  "full_label": "full/labels/balance__DSC_0005.txt",
+  "image": "images/balance__DSC_0005.png"
+ },
+ {
+  "candidate_id": "balance__DSC_0006",
+  "parent_id": "DSC_0006",
+  "full_image": "full/images/balance__DSC_0006.jpg",
+  "full_label": "full/labels/balance__DSC_0006.txt",
+  "image": "images/balance__DSC_0006.png"
+ },
+ {
+  "candidate_id": "balance__DSC_0007",
+  "parent_id": "DSC_0007",
+  "full_image": "full/images/balance__DSC_0007.jpg",
+  "full_label": "full/labels/balance__DSC_0007.txt",
+  "image": "images/balance__DSC_0007.png"
+ },
+ {
+  "candidate_id": "balance__DSC_0008",
+  "parent_id": "DSC_0008",
+  "full_image": "full/images/balance__DSC_0008.jpg",
+  "full_label": "full/labels/balance__DSC_0008.txt",
+  "image": "images/balance__DSC_0008.png"
+ },
+ {
+  "candidate_id": "balance__DSC_0009",
+  "parent_id": "DSC_0009",
+  "full_image": "full/images/balance__DSC_0009.jpg",
+  "full_label": "full/labels/balance__DSC_0009.txt",
+  "image": "images/balance__DSC_0009.png"
+ },
+ {
+  "candidate_id": "balance__DSC_0010",
+  "parent_id": "DSC_0010",
+  "full_image": "full/images/balance__DSC_0010.jpg",
+  "full_label": "full/labels/balance__DSC_0010.txt",
+  "image": "images/balance__DSC_0010.png"
+ },
+ {
+  "candidate_id": "balance__DSC_0011",
+  "parent_id": "DSC_0011",
+  "full_image": "full/images/balance__DSC_0011.jpg",
+  "full_label": "full/labels/balance__DSC_0011.txt",
+  "image": "images/balance__DSC_0011.png"
+ },
+ {
+  "candidate_id": "balance__DSC_0012",
+  "parent_id": "DSC_0012",
+  "full_image": "full/images/balance__DSC_0012.jpg",
+  "full_label": "full/labels/balance__DSC_0012.txt",
+  "image": "images/balance__DSC_0012.png"
+ },
+ {
+  "candidate_id": "balance__DSC_0013",
+  "parent_id": "DSC_0013",
+  "full_image": "full/images/balance__DSC_0013.jpg",
+  "full_label": "full/labels/balance__DSC_0013.txt",
+  "image": "images/balance__DSC_0013.png"
+ },
+ {
+  "candidate_id": "balance__DSC_0014",
+  "parent_id": "DSC_0014",
+  "full_image": "full/images/balance__DSC_0014.jpg",
+  "full_label": "full/labels/balance__DSC_0014.txt",
+  "image": "images/balance__DSC_0014.png"
+ },
+ {
+  "candidate_id": "balance__DSC_0015",
+  "parent_id": "DSC_0015",
+  "full_image": "full/images/balance__DSC_0015.jpg",
+  "full_label": "full/labels/balance__DSC_0015.txt",
+  "image": "images/balance__DSC_0015.png"
+ },
+ {
+  "candidate_id": "balance__DSC_0016",
+  "parent_id": "DSC_0016",
+  "full_image": "full/images/balance__DSC_0016.jpg",
+  "full_label": "full/labels/balance__DSC_0016.txt",
+  "image": "images/balance__DSC_0016.png"
+ },
+ {
+  "candidate_id": "balance__DSC_0017",
+  "parent_id": "DSC_0017",
+  "full_image": "full/images/balance__DSC_0017.jpg",
+  "full_label": "full/labels/balance__DSC_0017.txt",
+  "image": "images/balance__DSC_0017.png"
+ },
+ {
+  "candidate_id": "balance__DSC_0018",
+  "parent_id": "DSC_0018",
+  "full_image": "full/images/balance__DSC_0018.jpg",
+  "full_label": "full/labels/balance__DSC_0018.txt",
+  "image": "images/balance__DSC_0018.png"
+ },
+ {
+  "candidate_id": "balance__DSC_0019",
+  "parent_id": "DSC_0019",
+  "full_image": "full/images/balance__DSC_0019.jpg",
+  "full_label": "full/labels/balance__DSC_0019.txt",
+  "image": "images/balance__DSC_0019.png"
+ },
+ {
+  "candidate_id": "balance__DSC_0020",
+  "parent_id": "DSC_0020",
+  "full_image": "full/images/balance__DSC_0020.jpg",
+  "full_label": "full/labels/balance__DSC_0020.txt",
+  "image": "images/balance__DSC_0020.png"
+ },
+ {
+  "candidate_id": "balance__DSC_0021",
+  "parent_id": "DSC_0021",
+  "full_image": "full/images/balance__DSC_0021.jpg",
+  "full_label": "full/labels/balance__DSC_0021.txt",
+  "image": "images/balance__DSC_0021.png"
+ },
+ {
+  "candidate_id": "balance__DSC_0022",
+  "parent_id": "DSC_0022",
+  "full_image": "full/images/balance__DSC_0022.jpg",
+  "full_label": "full/labels/balance__DSC_0022.txt",
+  "image": "images/balance__DSC_0022.png"
+ },
+ {
+  "candidate_id": "balance__DSC_0023",
+  "parent_id": "DSC_0023",
+  "full_image": "full/images/balance__DSC_0023.jpg",
+  "full_label": "full/labels/balance__DSC_0023.txt",
+  "image": "images/balance__DSC_0023.png"
+ },
+ {
+  "candidate_id": "balance__DSC_0024",
+  "parent_id": "DSC_0024",
+  "full_image": "full/images/balance__DSC_0024.jpg",
+  "full_label": "full/labels/balance__DSC_0024.txt",
+  "image": "images/balance__DSC_0024.png"
+ },
+ {
+  "candidate_id": "balance__DSC_0025",
+  "parent_id": "DSC_0025",
+  "full_image": "full/images/balance__DSC_0025.jpg",
+  "full_label": "full/labels/balance__DSC_0025.txt",
+  "image": "images/balance__DSC_0025.png"
+ },
+ {
+  "candidate_id": "balance__DSC_0026",
+  "parent_id": "DSC_0026",
+  "full_image": "full/images/balance__DSC_0026.jpg",
+  "full_label": "full/labels/balance__DSC_0026.txt",
+  "image": "images/balance__DSC_0026.png"
+ },
+ {
+  "candidate_id": "balance__DSC_0027",
+  "parent_id": "DSC_0027",
+  "full_image": "full/images/balance__DSC_0027.jpg",
+  "full_label": "full/labels/balance__DSC_0027.txt",
+  "image": "images/balance__DSC_0027.png"
+ },
+ {
+  "candidate_id": "balance__DSC_0028",
+  "parent_id": "DSC_0028",
+  "full_image": "full/images/balance__DSC_0028.jpg",
+  "full_label": "full/labels/balance__DSC_0028.txt",
+  "image": "images/balance__DSC_0028.png"
+ },
+ {
+  "candidate_id": "balance__DSC_0029",
+  "parent_id": "DSC_0029",
+  "full_image": "full/images/balance__DSC_0029.jpg",
+  "full_label": "full/labels/balance__DSC_0029.txt",
+  "image": "images/balance__DSC_0029.png"
+ },
+ {
+  "candidate_id": "balance__DSC_0030",
+  "parent_id": "DSC_0030",
+  "full_image": "full/images/balance__DSC_0030.jpg",
+  "full_label": "full/labels/balance__DSC_0030.txt",
+  "image": "images/balance__DSC_0030.png"
+ },
+ {
+  "candidate_id": "balance__DSC_0031",
+  "parent_id": "DSC_0031",
+  "full_image": "full/images/balance__DSC_0031.jpg",
+  "full_label": "full/labels/balance__DSC_0031.txt",
+  "image": "images/balance__DSC_0031.png"
+ },
+ {
+  "candidate_id": "balance__DSC_0032",
+  "parent_id": "DSC_0032",
+  "full_image": "full/images/balance__DSC_0032.jpg",
+  "full_label": "full/labels/balance__DSC_0032.txt",
+  "image": "images/balance__DSC_0032.png"
+ },
+ {
+  "candidate_id": "balance__DSC_0033",
+  "parent_id": "DSC_0033",
+  "full_image": "full/images/balance__DSC_0033.jpg",
+  "full_label": "full/labels/balance__DSC_0033.txt",
+  "image": "images/balance__DSC_0033.png"
+ },
+ {
+  "candidate_id": "balance__DSC_0034",
+  "parent_id": "DSC_0034",
+  "full_image": "full/images/balance__DSC_0034.jpg",
+  "full_label": "full/labels/balance__DSC_0034.txt",
+  "image": "images/balance__DSC_0034.png"
+ },
+ {
+  "candidate_id": "balance__DSC_0035",
+  "parent_id": "DSC_0035",
+  "full_image": "full/images/balance__DSC_0035.jpg",
+  "full_label": "full/labels/balance__DSC_0035.txt",
+  "image": "images/balance__DSC_0035.png"
+ },
+ {
+  "candidate_id": "balance__DSC_0036",
+  "parent_id": "DSC_0036",
+  "full_image": "full/images/balance__DSC_0036.jpg",
+  "full_label": "full/labels/balance__DSC_0036.txt",
+  "image": "images/balance__DSC_0036.png"
+ },
+ {
+  "candidate_id": "balance__DSC_0037",
+  "parent_id": "DSC_0037",
+  "full_image": "full/images/balance__DSC_0037.jpg",
+  "full_label": "full/labels/balance__DSC_0037.txt",
+  "image": "images/balance__DSC_0037.png"
+ },
+ {
+  "candidate_id": "balance__DSC_0038",
+  "parent_id": "DSC_0038",
+  "full_image": "full/images/balance__DSC_0038.jpg",
+  "full_label": "full/labels/balance__DSC_0038.txt",
+  "image": "images/balance__DSC_0038.png"
+ },
+ {
+  "candidate_id": "balance__DSC_0039",
+  "parent_id": "DSC_0039",
+  "full_image": "full/images/balance__DSC_0039.jpg",
+  "full_label": "full/labels/balance__DSC_0039.txt",
+  "image": "images/balance__DSC_0039.png"
+ },
+ {
+  "candidate_id": "balance__DSC_0040",
+  "parent_id": "DSC_0040",
+  "full_image": "full/images/balance__DSC_0040.jpg",
+  "full_label": "full/labels/balance__DSC_0040.txt",
+  "image": "images/balance__DSC_0040.png"
+ },
+ {
+  "candidate_id": "balance__DSC_0041",
+  "parent_id": "DSC_0041",
+  "full_image": "full/images/balance__DSC_0041.jpg",
+  "full_label": "full/labels/balance__DSC_0041.txt",
+  "image": "images/balance__DSC_0041.png"
+ },
+ {
+  "candidate_id": "balance__DSC_0042",
+  "parent_id": "DSC_0042",
+  "full_image": "full/images/balance__DSC_0042.jpg",
+  "full_label": "full/labels/balance__DSC_0042.txt",
+  "image": "images/balance__DSC_0042.png"
+ },
+ {
+  "candidate_id": "balance__DSC_0043",
+  "parent_id": "DSC_0043",
+  "full_image": "full/images/balance__DSC_0043.jpg",
+  "full_label": "full/labels/balance__DSC_0043.txt",
+  "image": "images/balance__DSC_0043.png"
+ },
+ {
+  "candidate_id": "balance__DSC_0044",
+  "parent_id": "DSC_0044",
+  "full_image": "full/images/balance__DSC_0044.jpg",
+  "full_label": "full/labels/balance__DSC_0044.txt",
+  "image": "images/balance__DSC_0044.png"
+ },
+ {
+  "candidate_id": "balance__DSC_0045",
+  "parent_id": "DSC_0045",
+  "full_image": "full/images/balance__DSC_0045.jpg",
+  "full_label": "full/labels/balance__DSC_0045.txt",
+  "image": "images/balance__DSC_0045.png"
+ },
+ {
+  "candidate_id": "balance__DSC_0046",
+  "parent_id": "DSC_0046",
+  "full_image": "full/images/balance__DSC_0046.jpg",
+  "full_label": "full/labels/balance__DSC_0046.txt",
+  "image": "images/balance__DSC_0046.png"
+ },
+ {
+  "candidate_id": "balance__DSC_0047",
+  "parent_id": "DSC_0047",
+  "full_image": "full/images/balance__DSC_0047.jpg",
+  "full_label": "full/labels/balance__DSC_0047.txt",
+  "image": "images/balance__DSC_0047.png"
+ },
+ {
+  "candidate_id": "balance__DSC_0048",
+  "parent_id": "DSC_0048",
+  "full_image": "full/images/balance__DSC_0048.jpg",
+  "full_label": "full/labels/balance__DSC_0048.txt",
+  "image": "images/balance__DSC_0048.png"
+ },
+ {
+  "candidate_id": "balance__DSC_0049",
+  "parent_id": "DSC_0049",
+  "full_image": "full/images/balance__DSC_0049.jpg",
+  "full_label": "full/labels/balance__DSC_0049.txt",
+  "image": "images/balance__DSC_0049.png"
+ },
+ {
+  "candidate_id": "balance__DSC_0050",
+  "parent_id": "DSC_0050",
+  "full_image": "full/images/balance__DSC_0050.jpg",
+  "full_label": "full/labels/balance__DSC_0050.txt",
+  "image": "images/balance__DSC_0050.png"
+ },
+ {
+  "candidate_id": "balance__DSC_0051",
+  "parent_id": "DSC_0051",
+  "full_image": "full/images/balance__DSC_0051.jpg",
+  "full_label": "full/labels/balance__DSC_0051.txt",
+  "image": "images/balance__DSC_0051.png"
+ },
+ {
+  "candidate_id": "balance__DSC_0052",
+  "parent_id": "DSC_0052",
+  "full_image": "full/images/balance__DSC_0052.jpg",
+  "full_label": "full/labels/balance__DSC_0052.txt",
+  "image": "images/balance__DSC_0052.png"
+ },
+ {
+  "candidate_id": "balance__DSC_0053",
+  "parent_id": "DSC_0053",
+  "full_image": "full/images/balance__DSC_0053.jpg",
+  "full_label": "full/labels/balance__DSC_0053.txt",
+  "image": "images/balance__DSC_0053.png"
+ },
+ {
+  "candidate_id": "balance__DSC_0054",
+  "parent_id": "DSC_0054",
+  "full_image": "full/images/balance__DSC_0054.jpg",
+  "full_label": "full/labels/balance__DSC_0054.txt",
+  "image": "images/balance__DSC_0054.png"
+ },
+ {
+  "candidate_id": "balance__DSC_0055",
+  "parent_id": "DSC_0055",
+  "full_image": "full/images/balance__DSC_0055.jpg",
+  "full_label": "full/labels/balance__DSC_0055.txt",
+  "image": "images/balance__DSC_0055.png"
+ },
+ {
+  "candidate_id": "balance__DSC_0056",
+  "parent_id": "DSC_0056",
+  "full_image": "full/images/balance__DSC_0056.jpg",
+  "full_label": "full/labels/balance__DSC_0056.txt",
+  "image": "images/balance__DSC_0056.png"
+ },
+ {
+  "candidate_id": "balance__DSC_0057",
+  "parent_id": "DSC_0057",
+  "full_image": "full/images/balance__DSC_0057.jpg",
+  "full_label": "full/labels/balance__DSC_0057.txt",
+  "image": "images/balance__DSC_0057.png"
+ },
+ {
+  "candidate_id": "balance__DSC_0058",
+  "parent_id": "DSC_0058",
+  "full_image": "full/images/balance__DSC_0058.jpg",
+  "full_label": "full/labels/balance__DSC_0058.txt",
+  "image": "images/balance__DSC_0058.png"
+ },
+ {
+  "candidate_id": "balance__DSC_0059",
+  "parent_id": "DSC_0059",
+  "full_image": "full/images/balance__DSC_0059.jpg",
+  "full_label": "full/labels/balance__DSC_0059.txt",
+  "image": "images/balance__DSC_0059.png"
+ },
+ {
+  "candidate_id": "balance__DSC_0060",
+  "parent_id": "DSC_0060",
+  "full_image": "full/images/balance__DSC_0060.jpg",
+  "full_label": "full/labels/balance__DSC_0060.txt",
+  "image": "images/balance__DSC_0060.png"
+ },
+ {
+  "candidate_id": "balance__DSC_0061",
+  "parent_id": "DSC_0061",
+  "full_image": "full/images/balance__DSC_0061.jpg",
+  "full_label": "full/labels/balance__DSC_0061.txt",
+  "image": "images/balance__DSC_0061.png"
+ },
+ {
+  "candidate_id": "balance__DSC_0062",
+  "parent_id": "DSC_0062",
+  "full_image": "full/images/balance__DSC_0062.jpg",
+  "full_label": "full/labels/balance__DSC_0062.txt",
+  "image": "images/balance__DSC_0062.png"
+ },
+ {
+  "candidate_id": "balance__DSC_0063",
+  "parent_id": "DSC_0063",
+  "full_image": "full/images/balance__DSC_0063.jpg",
+  "full_label": "full/labels/balance__DSC_0063.txt",
+  "image": "images/balance__DSC_0063.png"
+ },
+ {
+  "candidate_id": "balance__DSC_0064",
+  "parent_id": "DSC_0064",
+  "full_image": "full/images/balance__DSC_0064.jpg",
+  "full_label": "full/labels/balance__DSC_0064.txt",
+  "image": "images/balance__DSC_0064.png"
+ },
+ {
+  "candidate_id": "balance__DSC_0065",
+  "parent_id": "DSC_0065",
+  "full_image": "full/images/balance__DSC_0065.jpg",
+  "full_label": "full/labels/balance__DSC_0065.txt",
+  "image": "images/balance__DSC_0065.png"
+ },
+ {
+  "candidate_id": "balance__DSC_0066",
+  "parent_id": "DSC_0066",
+  "full_image": "full/images/balance__DSC_0066.jpg",
+  "full_label": "full/labels/balance__DSC_0066.txt",
+  "image": "images/balance__DSC_0066.png"
+ },
+ {
+  "candidate_id": "balance__DSC_0067",
+  "parent_id": "DSC_0067",
+  "full_image": "full/images/balance__DSC_0067.jpg",
+  "full_label": "full/labels/balance__DSC_0067.txt",
+  "image": "images/balance__DSC_0067.png"
+ },
+ {
+  "candidate_id": "balance__DSC_0068",
+  "parent_id": "DSC_0068",
+  "full_image": "full/images/balance__DSC_0068.jpg",
+  "full_label": "full/labels/balance__DSC_0068.txt",
+  "image": "images/balance__DSC_0068.png"
+ },
+ {
+  "candidate_id": "balance__DSC_0069",
+  "parent_id": "DSC_0069",
+  "full_image": "full/images/balance__DSC_0069.jpg",
+  "full_label": "full/labels/balance__DSC_0069.txt",
+  "image": "images/balance__DSC_0069.png"
+ },
+ {
+  "candidate_id": "balance__DSC_0070",
+  "parent_id": "DSC_0070",
+  "full_image": "full/images/balance__DSC_0070.jpg",
+  "full_label": "full/labels/balance__DSC_0070.txt",
+  "image": "images/balance__DSC_0070.png"
+ },
+ {
+  "candidate_id": "balance__DSC_0071",
+  "parent_id": "DSC_0071",
+  "full_image": "full/images/balance__DSC_0071.jpg",
+  "full_label": "full/labels/balance__DSC_0071.txt",
+  "image": "images/balance__DSC_0071.png"
+ },
+ {
+  "candidate_id": "balance__DSC_0072",
+  "parent_id": "DSC_0072",
+  "full_image": "full/images/balance__DSC_0072.jpg",
+  "full_label": "full/labels/balance__DSC_0072.txt",
+  "image": "images/balance__DSC_0072.png"
+ },
+ {
+  "candidate_id": "balance__DSC_0074",
+  "parent_id": "DSC_0074",
+  "full_image": "full/images/balance__DSC_0074.jpg",
+  "full_label": "full/labels/balance__DSC_0074.txt",
+  "image": "images/balance__DSC_0074.png"
+ },
+ {
+  "candidate_id": "balance__DSC_0075",
+  "parent_id": "DSC_0075",
+  "full_image": "full/images/balance__DSC_0075.jpg",
+  "full_label": "full/labels/balance__DSC_0075.txt",
+  "image": "images/balance__DSC_0075.png"
+ },
+ {
+  "candidate_id": "balance__DSC_0077",
+  "parent_id": "DSC_0077",
+  "full_image": "full/images/balance__DSC_0077.jpg",
+  "full_label": "full/labels/balance__DSC_0077.txt",
+  "image": "images/balance__DSC_0077.png"
+ },
+ {
+  "candidate_id": "balance__DSC_0078",
+  "parent_id": "DSC_0078",
+  "full_image": "full/images/balance__DSC_0078.jpg",
+  "full_label": "full/labels/balance__DSC_0078.txt",
+  "image": "images/balance__DSC_0078.png"
+ },
+ {
+  "candidate_id": "balance__DSC_0079",
+  "parent_id": "DSC_0079",
+  "full_image": "full/images/balance__DSC_0079.jpg",
+  "full_label": "full/labels/balance__DSC_0079.txt",
+  "image": "images/balance__DSC_0079.png"
+ },
+ {
+  "candidate_id": "balance__DSC_0080",
+  "parent_id": "DSC_0080",
+  "full_image": "full/images/balance__DSC_0080.jpg",
+  "full_label": "full/labels/balance__DSC_0080.txt",
+  "image": "images/balance__DSC_0080.png"
+ },
+ {
+  "candidate_id": "balance__DSC_0081",
+  "parent_id": "DSC_0081",
+  "full_image": "full/images/balance__DSC_0081.jpg",
+  "full_label": "full/labels/balance__DSC_0081.txt",
+  "image": "images/balance__DSC_0081.png"
+ },
+ {
+  "candidate_id": "balance__DSC_0082",
+  "parent_id": "DSC_0082",
+  "full_image": "full/images/balance__DSC_0082.jpg",
+  "full_label": "full/labels/balance__DSC_0082.txt",
+  "image": "images/balance__DSC_0082.png"
+ },
+ {
+  "candidate_id": "balance__DSC_0083",
+  "parent_id": "DSC_0083",
+  "full_image": "full/images/balance__DSC_0083.jpg",
+  "full_label": "full/labels/balance__DSC_0083.txt",
+  "image": "images/balance__DSC_0083.png"
+ },
+ {
+  "candidate_id": "balance__DSC_0084",
+  "parent_id": "DSC_0084",
+  "full_image": "full/images/balance__DSC_0084.jpg",
+  "full_label": "full/labels/balance__DSC_0084.txt",
+  "image": "images/balance__DSC_0084.png"
+ },
+ {
+  "candidate_id": "balance__DSC_0085",
+  "parent_id": "DSC_0085",
+  "full_image": "full/images/balance__DSC_0085.jpg",
+  "full_label": "full/labels/balance__DSC_0085.txt",
+  "image": "images/balance__DSC_0085.png"
+ },
+ {
+  "candidate_id": "balance__DSC_0086",
+  "parent_id": "DSC_0086",
+  "full_image": "full/images/balance__DSC_0086.jpg",
+  "full_label": "full/labels/balance__DSC_0086.txt",
+  "image": "images/balance__DSC_0086.png"
+ },
+ {
+  "candidate_id": "balance__DSC_0087",
+  "parent_id": "DSC_0087",
+  "full_image": "full/images/balance__DSC_0087.jpg",
+  "full_label": "full/labels/balance__DSC_0087.txt",
+  "image": "images/balance__DSC_0087.png"
+ },
+ {
+  "candidate_id": "balance__DSC_0088",
+  "parent_id": "DSC_0088",
+  "full_image": "full/images/balance__DSC_0088.jpg",
+  "full_label": "full/labels/balance__DSC_0088.txt",
+  "image": "images/balance__DSC_0088.png"
+ },
+ {
+  "candidate_id": "balance__DSC_0089",
+  "parent_id": "DSC_0089",
+  "full_image": "full/images/balance__DSC_0089.jpg",
+  "full_label": "full/labels/balance__DSC_0089.txt",
+  "image": "images/balance__DSC_0089.png"
+ },
+ {
+  "candidate_id": "balance__DSC_0090",
+  "parent_id": "DSC_0090",
+  "full_image": "full/images/balance__DSC_0090.jpg",
+  "full_label": "full/labels/balance__DSC_0090.txt",
+  "image": "images/balance__DSC_0090.png"
+ },
+ {
+  "candidate_id": "balance__DSC_0091",
+  "parent_id": "DSC_0091",
+  "full_image": "full/images/balance__DSC_0091.jpg",
+  "full_label": "full/labels/balance__DSC_0091.txt",
+  "image": "images/balance__DSC_0091.png"
+ },
+ {
+  "candidate_id": "balance__DSC_0092",
+  "parent_id": "DSC_0092",
+  "full_image": "full/images/balance__DSC_0092.jpg",
+  "full_label": "full/labels/balance__DSC_0092.txt",
+  "image": "images/balance__DSC_0092.png"
+ },
+ {
+  "candidate_id": "balance__DSC_0094",
+  "parent_id": "DSC_0094",
+  "full_image": "full/images/balance__DSC_0094.jpg",
+  "full_label": "full/labels/balance__DSC_0094.txt",
+  "image": "images/balance__DSC_0094.png"
+ },
+ {
+  "candidate_id": "balance__DSC_0095",
+  "parent_id": "DSC_0095",
+  "full_image": "full/images/balance__DSC_0095.jpg",
+  "full_label": "full/labels/balance__DSC_0095.txt",
+  "image": "images/balance__DSC_0095.png"
+ },
+ {
+  "candidate_id": "balance__DSC_0108",
+  "parent_id": "DSC_0108",
+  "full_image": "full/images/balance__DSC_0108.jpg",
+  "full_label": "full/labels/balance__DSC_0108.txt",
+  "image": "images/balance__DSC_0108.png"
+ },
+ {
+  "candidate_id": "balance__DSC_0109",
+  "parent_id": "DSC_0109",
+  "full_image": "full/images/balance__DSC_0109.jpg",
+  "full_label": "full/labels/balance__DSC_0109.txt",
+  "image": "images/balance__DSC_0109.png"
+ },
+ {
+  "candidate_id": "balance__DSC_0110",
+  "parent_id": "DSC_0110",
+  "full_image": "full/images/balance__DSC_0110.jpg",
+  "full_label": "full/labels/balance__DSC_0110.txt",
+  "image": "images/balance__DSC_0110.png"
+ },
+ {
+  "candidate_id": "balance__DSC_0111",
+  "parent_id": "DSC_0111",
+  "full_image": "full/images/balance__DSC_0111.jpg",
+  "full_label": "full/labels/balance__DSC_0111.txt",
+  "image": "images/balance__DSC_0111.png"
+ },
+ {
+  "candidate_id": "balance__DSC_0112",
+  "parent_id": "DSC_0112",
+  "full_image": "full/images/balance__DSC_0112.jpg",
+  "full_label": "full/labels/balance__DSC_0112.txt",
+  "image": "images/balance__DSC_0112.png"
+ },
+ {
+  "candidate_id": "balance__DSC_0113",
+  "parent_id": "DSC_0113",
+  "full_image": "full/images/balance__DSC_0113.jpg",
+  "full_label": "full/labels/balance__DSC_0113.txt",
+  "image": "images/balance__DSC_0113.png"
+ },
+ {
+  "candidate_id": "balance__DSC_0114",
+  "parent_id": "DSC_0114",
+  "full_image": "full/images/balance__DSC_0114.jpg",
+  "full_label": "full/labels/balance__DSC_0114.txt",
+  "image": "images/balance__DSC_0114.png"
+ },
+ {
+  "candidate_id": "balance__DSC_0115",
+  "parent_id": "DSC_0115",
+  "full_image": "full/images/balance__DSC_0115.jpg",
+  "full_label": "full/labels/balance__DSC_0115.txt",
+  "image": "images/balance__DSC_0115.png"
+ },
+ {
+  "candidate_id": "balance__DSC_0116",
+  "parent_id": "DSC_0116",
+  "full_image": "full/images/balance__DSC_0116.jpg",
+  "full_label": "full/labels/balance__DSC_0116.txt",
+  "image": "images/balance__DSC_0116.png"
+ },
+ {
+  "candidate_id": "balance__DSC_0117",
+  "parent_id": "DSC_0117",
+  "full_image": "full/images/balance__DSC_0117.jpg",
+  "full_label": "full/labels/balance__DSC_0117.txt",
+  "image": "images/balance__DSC_0117.png"
+ },
+ {
+  "candidate_id": "balance__DSC_0118",
+  "parent_id": "DSC_0118",
+  "full_image": "full/images/balance__DSC_0118.jpg",
+  "full_label": "full/labels/balance__DSC_0118.txt",
+  "image": "images/balance__DSC_0118.png"
+ },
+ {
+  "candidate_id": "balance__DSC_0119",
+  "parent_id": "DSC_0119",
+  "full_image": "full/images/balance__DSC_0119.jpg",
+  "full_label": "full/labels/balance__DSC_0119.txt",
+  "image": "images/balance__DSC_0119.png"
+ },
+ {
+  "candidate_id": "balance__DSC_0120",
+  "parent_id": "DSC_0120",
+  "full_image": "full/images/balance__DSC_0120.jpg",
+  "full_label": "full/labels/balance__DSC_0120.txt",
+  "image": "images/balance__DSC_0120.png"
+ },
+ {
+  "candidate_id": "balance__DSC_0121",
+  "parent_id": "DSC_0121",
+  "full_image": "full/images/balance__DSC_0121.jpg",
+  "full_label": "full/labels/balance__DSC_0121.txt",
+  "image": "images/balance__DSC_0121.png"
+ },
+ {
+  "candidate_id": "balance__DSC_0122",
+  "parent_id": "DSC_0122",
+  "full_image": "full/images/balance__DSC_0122.jpg",
+  "full_label": "full/labels/balance__DSC_0122.txt",
+  "image": "images/balance__DSC_0122.png"
+ },
+ {
+  "candidate_id": "balance__DSC_0123",
+  "parent_id": "DSC_0123",
+  "full_image": "full/images/balance__DSC_0123.jpg",
+  "full_label": "full/labels/balance__DSC_0123.txt",
+  "image": "images/balance__DSC_0123.png"
+ },
+ {
+  "candidate_id": "balance__DSC_0124",
+  "parent_id": "DSC_0124",
+  "full_image": "full/images/balance__DSC_0124.jpg",
+  "full_label": "full/labels/balance__DSC_0124.txt",
+  "image": "images/balance__DSC_0124.png"
+ },
+ {
+  "candidate_id": "balance__DSC_0125",
+  "parent_id": "DSC_0125",
+  "full_image": "full/images/balance__DSC_0125.jpg",
+  "full_label": "full/labels/balance__DSC_0125.txt",
+  "image": "images/balance__DSC_0125.png"
+ },
+ {
+  "candidate_id": "balance__DSC_0127",
+  "parent_id": "DSC_0127",
+  "full_image": "full/images/balance__DSC_0127.jpg",
+  "full_label": "full/labels/balance__DSC_0127.txt",
+  "image": "images/balance__DSC_0127.png"
+ },
+ {
+  "candidate_id": "balance__DSC_0128",
+  "parent_id": "DSC_0128",
+  "full_image": "full/images/balance__DSC_0128.jpg",
+  "full_label": "full/labels/balance__DSC_0128.txt",
+  "image": "images/balance__DSC_0128.png"
+ },
+ {
+  "candidate_id": "balance__DSC_0129",
+  "parent_id": "DSC_0129",
+  "full_image": "full/images/balance__DSC_0129.jpg",
+  "full_label": "full/labels/balance__DSC_0129.txt",
+  "image": "images/balance__DSC_0129.png"
+ },
+ {
+  "candidate_id": "balance__DSC_0130",
+  "parent_id": "DSC_0130",
+  "full_image": "full/images/balance__DSC_0130.jpg",
+  "full_label": "full/labels/balance__DSC_0130.txt",
+  "image": "images/balance__DSC_0130.png"
+ },
+ {
+  "candidate_id": "balance__DSC_0131",
+  "parent_id": "DSC_0131",
+  "full_image": "full/images/balance__DSC_0131.jpg",
+  "full_label": "full/labels/balance__DSC_0131.txt",
+  "image": "images/balance__DSC_0131.png"
+ },
+ {
+  "candidate_id": "balance__DSC_0132",
+  "parent_id": "DSC_0132",
+  "full_image": "full/images/balance__DSC_0132.jpg",
+  "full_label": "full/labels/balance__DSC_0132.txt",
+  "image": "images/balance__DSC_0132.png"
+ },
+ {
+  "candidate_id": "balance__DSC_0133",
+  "parent_id": "DSC_0133",
+  "full_image": "full/images/balance__DSC_0133.jpg",
+  "full_label": "full/labels/balance__DSC_0133.txt",
+  "image": "images/balance__DSC_0133.png"
+ },
+ {
+  "candidate_id": "balance__DSC_0134",
+  "parent_id": "DSC_0134",
+  "full_image": "full/images/balance__DSC_0134.jpg",
+  "full_label": "full/labels/balance__DSC_0134.txt",
+  "image": "images/balance__DSC_0134.png"
+ },
+ {
+  "candidate_id": "balance__DSC_0135",
+  "parent_id": "DSC_0135",
+  "full_image": "full/images/balance__DSC_0135.jpg",
+  "full_label": "full/labels/balance__DSC_0135.txt",
+  "image": "images/balance__DSC_0135.png"
+ },
+ {
+  "candidate_id": "balance__DSC_0136",
+  "parent_id": "DSC_0136",
+  "full_image": "full/images/balance__DSC_0136.jpg",
+  "full_label": "full/labels/balance__DSC_0136.txt",
+  "image": "images/balance__DSC_0136.png"
+ },
+ {
+  "candidate_id": "balance__DSC_0137",
+  "parent_id": "DSC_0137",
+  "full_image": "full/images/balance__DSC_0137.jpg",
+  "full_label": "full/labels/balance__DSC_0137.txt",
+  "image": "images/balance__DSC_0137.png"
+ },
+ {
+  "candidate_id": "balance__DSC_0138",
+  "parent_id": "DSC_0138",
+  "full_image": "full/images/balance__DSC_0138.jpg",
+  "full_label": "full/labels/balance__DSC_0138.txt",
+  "image": "images/balance__DSC_0138.png"
+ },
+ {
+  "candidate_id": "balance__DSC_0140",
+  "parent_id": "DSC_0140",
+  "full_image": "full/images/balance__DSC_0140.jpg",
+  "full_label": "full/labels/balance__DSC_0140.txt",
+  "image": "images/balance__DSC_0140.png"
+ },
+ {
+  "candidate_id": "balance__DSC_0141",
+  "parent_id": "DSC_0141",
+  "full_image": "full/images/balance__DSC_0141.jpg",
+  "full_label": "full/labels/balance__DSC_0141.txt",
+  "image": "images/balance__DSC_0141.png"
+ },
+ {
+  "candidate_id": "balance__DSC_0142",
+  "parent_id": "DSC_0142",
+  "full_image": "full/images/balance__DSC_0142.jpg",
+  "full_label": "full/labels/balance__DSC_0142.txt",
+  "image": "images/balance__DSC_0142.png"
+ },
+ {
+  "candidate_id": "balance__DSC_0143",
+  "parent_id": "DSC_0143",
+  "full_image": "full/images/balance__DSC_0143.jpg",
+  "full_label": "full/labels/balance__DSC_0143.txt",
+  "image": "images/balance__DSC_0143.png"
+ },
+ {
+  "candidate_id": "balance__DSC_0144",
+  "parent_id": "DSC_0144",
+  "full_image": "full/images/balance__DSC_0144.jpg",
+  "full_label": "full/labels/balance__DSC_0144.txt",
+  "image": "images/balance__DSC_0144.png"
+ },
+ {
+  "candidate_id": "balance__DSC_0145",
+  "parent_id": "DSC_0145",
+  "full_image": "full/images/balance__DSC_0145.jpg",
+  "full_label": "full/labels/balance__DSC_0145.txt",
+  "image": "images/balance__DSC_0145.png"
+ },
+ {
+  "candidate_id": "balance__DSC_0146",
+  "parent_id": "DSC_0146",
+  "full_image": "full/images/balance__DSC_0146.jpg",
+  "full_label": "full/labels/balance__DSC_0146.txt",
+  "image": "images/balance__DSC_0146.png"
+ },
+ {
+  "candidate_id": "balance__DSC_0161",
+  "parent_id": "DSC_0161",
+  "full_image": "full/images/balance__DSC_0161.jpg",
+  "full_label": "full/labels/balance__DSC_0161.txt",
+  "image": "images/balance__DSC_0161.png"
+ },
+ {
+  "candidate_id": "balance__DSC_0162",
+  "parent_id": "DSC_0162",
+  "full_image": "full/images/balance__DSC_0162.jpg",
+  "full_label": "full/labels/balance__DSC_0162.txt",
+  "image": "images/balance__DSC_0162.png"
+ },
+ {
+  "candidate_id": "balance__DSC_0163",
+  "parent_id": "DSC_0163",
+  "full_image": "full/images/balance__DSC_0163.jpg",
+  "full_label": "full/labels/balance__DSC_0163.txt",
+  "image": "images/balance__DSC_0163.png"
+ },
+ {
+  "candidate_id": "balance__DSC_0164",
+  "parent_id": "DSC_0164",
+  "full_image": "full/images/balance__DSC_0164.jpg",
+  "full_label": "full/labels/balance__DSC_0164.txt",
+  "image": "images/balance__DSC_0164.png"
+ },
+ {
+  "candidate_id": "balance__DSC_0165",
+  "parent_id": "DSC_0165",
+  "full_image": "full/images/balance__DSC_0165.jpg",
+  "full_label": "full/labels/balance__DSC_0165.txt",
+  "image": "images/balance__DSC_0165.png"
+ },
+ {
+  "candidate_id": "balance__DSC_0166",
+  "parent_id": "DSC_0166",
+  "full_image": "full/images/balance__DSC_0166.jpg",
+  "full_label": "full/labels/balance__DSC_0166.txt",
+  "image": "images/balance__DSC_0166.png"
+ },
+ {
+  "candidate_id": "balance__DSC_0167",
+  "parent_id": "DSC_0167",
+  "full_image": "full/images/balance__DSC_0167.jpg",
+  "full_label": "full/labels/balance__DSC_0167.txt",
+  "image": "images/balance__DSC_0167.png"
+ },
+ {
+  "candidate_id": "balance__DSC_0168",
+  "parent_id": "DSC_0168",
+  "full_image": "full/images/balance__DSC_0168.jpg",
+  "full_label": "full/labels/balance__DSC_0168.txt",
+  "image": "images/balance__DSC_0168.png"
+ },
+ {
+  "candidate_id": "balance__DSC_0169",
+  "parent_id": "DSC_0169",
+  "full_image": "full/images/balance__DSC_0169.jpg",
+  "full_label": "full/labels/balance__DSC_0169.txt",
+  "image": "images/balance__DSC_0169.png"
+ },
+ {
+  "candidate_id": "balance__DSC_0170",
+  "parent_id": "DSC_0170",
+  "full_image": "full/images/balance__DSC_0170.jpg",
+  "full_label": "full/labels/balance__DSC_0170.txt",
+  "image": "images/balance__DSC_0170.png"
+ },
+ {
+  "candidate_id": "balance__DSC_0171",
+  "parent_id": "DSC_0171",
+  "full_image": "full/images/balance__DSC_0171.jpg",
+  "full_label": "full/labels/balance__DSC_0171.txt",
+  "image": "images/balance__DSC_0171.png"
+ },
+ {
+  "candidate_id": "balance__DSC_0172",
+  "parent_id": "DSC_0172",
+  "full_image": "full/images/balance__DSC_0172.jpg",
+  "full_label": "full/labels/balance__DSC_0172.txt",
+  "image": "images/balance__DSC_0172.png"
+ },
+ {
+  "candidate_id": "balance__DSC_0173",
+  "parent_id": "DSC_0173",
+  "full_image": "full/images/balance__DSC_0173.jpg",
+  "full_label": "full/labels/balance__DSC_0173.txt",
+  "image": "images/balance__DSC_0173.png"
+ },
+ {
+  "candidate_id": "balance__DSC_0174",
+  "parent_id": "DSC_0174",
+  "full_image": "full/images/balance__DSC_0174.jpg",
+  "full_label": "full/labels/balance__DSC_0174.txt",
+  "image": "images/balance__DSC_0174.png"
+ },
+ {
+  "candidate_id": "balance__DSC_0175",
+  "parent_id": "DSC_0175",
+  "full_image": "full/images/balance__DSC_0175.jpg",
+  "full_label": "full/labels/balance__DSC_0175.txt",
+  "image": "images/balance__DSC_0175.png"
+ },
+ {
+  "candidate_id": "balance__DSC_0176",
+  "parent_id": "DSC_0176",
+  "full_image": "full/images/balance__DSC_0176.jpg",
+  "full_label": "full/labels/balance__DSC_0176.txt",
+  "image": "images/balance__DSC_0176.png"
+ },
+ {
+  "candidate_id": "balance__DSC_0177",
+  "parent_id": "DSC_0177",
+  "full_image": "full/images/balance__DSC_0177.jpg",
+  "full_label": "full/labels/balance__DSC_0177.txt",
+  "image": "images/balance__DSC_0177.png"
+ },
+ {
+  "candidate_id": "balance__DSC_0178",
+  "parent_id": "DSC_0178",
+  "full_image": "full/images/balance__DSC_0178.jpg",
+  "full_label": "full/labels/balance__DSC_0178.txt",
+  "image": "images/balance__DSC_0178.png"
+ },
+ {
+  "candidate_id": "balance__DSC_0179",
+  "parent_id": "DSC_0179",
+  "full_image": "full/images/balance__DSC_0179.jpg",
+  "full_label": "full/labels/balance__DSC_0179.txt",
+  "image": "images/balance__DSC_0179.png"
+ },
+ {
+  "candidate_id": "balance__DSC_0180",
+  "parent_id": "DSC_0180",
+  "full_image": "full/images/balance__DSC_0180.jpg",
+  "full_label": "full/labels/balance__DSC_0180.txt",
+  "image": "images/balance__DSC_0180.png"
+ },
+ {
+  "candidate_id": "balance__DSC_0183",
+  "parent_id": "DSC_0183",
+  "full_image": "full/images/balance__DSC_0183.jpg",
+  "full_label": "full/labels/balance__DSC_0183.txt",
+  "image": "images/balance__DSC_0183.png"
+ },
+ {
+  "candidate_id": "balance__DSC_0184",
+  "parent_id": "DSC_0184",
+  "full_image": "full/images/balance__DSC_0184.jpg",
+  "full_label": "full/labels/balance__DSC_0184.txt",
+  "image": "images/balance__DSC_0184.png"
+ },
+ {
+  "candidate_id": "balance__DSC_0185",
+  "parent_id": "DSC_0185",
+  "full_image": "full/images/balance__DSC_0185.jpg",
+  "full_label": "full/labels/balance__DSC_0185.txt",
+  "image": "images/balance__DSC_0185.png"
+ },
+ {
+  "candidate_id": "balance__DSC_0186",
+  "parent_id": "DSC_0186",
+  "full_image": "full/images/balance__DSC_0186.jpg",
+  "full_label": "full/labels/balance__DSC_0186.txt",
+  "image": "images/balance__DSC_0186.png"
+ },
+ {
+  "candidate_id": "balance__DSC_0187",
+  "parent_id": "DSC_0187",
+  "full_image": "full/images/balance__DSC_0187.jpg",
+  "full_label": "full/labels/balance__DSC_0187.txt",
+  "image": "images/balance__DSC_0187.png"
+ },
+ {
+  "candidate_id": "balance__DSC_0188",
+  "parent_id": "DSC_0188",
+  "full_image": "full/images/balance__DSC_0188.jpg",
+  "full_label": "full/labels/balance__DSC_0188.txt",
+  "image": "images/balance__DSC_0188.png"
+ },
+ {
+  "candidate_id": "balance__DSC_0189",
+  "parent_id": "DSC_0189",
+  "full_image": "full/images/balance__DSC_0189.jpg",
+  "full_label": "full/labels/balance__DSC_0189.txt",
+  "image": "images/balance__DSC_0189.png"
+ },
+ {
+  "candidate_id": "balance__DSC_0190",
+  "parent_id": "DSC_0190",
+  "full_image": "full/images/balance__DSC_0190.jpg",
+  "full_label": "full/labels/balance__DSC_0190.txt",
+  "image": "images/balance__DSC_0190.png"
+ },
+ {
+  "candidate_id": "balance__DSC_0191",
+  "parent_id": "DSC_0191",
+  "full_image": "full/images/balance__DSC_0191.jpg",
+  "full_label": "full/labels/balance__DSC_0191.txt",
+  "image": "images/balance__DSC_0191.png"
+ },
+ {
+  "candidate_id": "balance__DSC_0192",
+  "parent_id": "DSC_0192",
+  "full_image": "full/images/balance__DSC_0192.jpg",
+  "full_label": "full/labels/balance__DSC_0192.txt",
+  "image": "images/balance__DSC_0192.png"
+ },
+ {
+  "candidate_id": "balance__DSC_0193",
+  "parent_id": "DSC_0193",
+  "full_image": "full/images/balance__DSC_0193.jpg",
+  "full_label": "full/labels/balance__DSC_0193.txt",
+  "image": "images/balance__DSC_0193.png"
+ },
+ {
+  "candidate_id": "balance__DSC_0194",
+  "parent_id": "DSC_0194",
+  "full_image": "full/images/balance__DSC_0194.jpg",
+  "full_label": "full/labels/balance__DSC_0194.txt",
+  "image": "images/balance__DSC_0194.png"
+ },
+ {
+  "candidate_id": "balance__DSC_0195",
+  "parent_id": "DSC_0195",
+  "full_image": "full/images/balance__DSC_0195.jpg",
+  "full_label": "full/labels/balance__DSC_0195.txt",
+  "image": "images/balance__DSC_0195.png"
+ },
+ {
+  "candidate_id": "balance__DSC_0196",
+  "parent_id": "DSC_0196",
+  "full_image": "full/images/balance__DSC_0196.jpg",
+  "full_label": "full/labels/balance__DSC_0196.txt",
+  "image": "images/balance__DSC_0196.png"
+ },
+ {
+  "candidate_id": "balance__DSC_0197",
+  "parent_id": "DSC_0197",
+  "full_image": "full/images/balance__DSC_0197.jpg",
+  "full_label": "full/labels/balance__DSC_0197.txt",
+  "image": "images/balance__DSC_0197.png"
+ },
+ {
+  "candidate_id": "balance__DSC_0198",
+  "parent_id": "DSC_0198",
+  "full_image": "full/images/balance__DSC_0198.jpg",
+  "full_label": "full/labels/balance__DSC_0198.txt",
+  "image": "images/balance__DSC_0198.png"
+ },
+ {
+  "candidate_id": "balance__DSC_0199",
+  "parent_id": "DSC_0199",
+  "full_image": "full/images/balance__DSC_0199.jpg",
+  "full_label": "full/labels/balance__DSC_0199.txt",
+  "image": "images/balance__DSC_0199.png"
+ },
+ {
+  "candidate_id": "balance__DSC_0200",
+  "parent_id": "DSC_0200",
+  "full_image": "full/images/balance__DSC_0200.jpg",
+  "full_label": "full/labels/balance__DSC_0200.txt",
+  "image": "images/balance__DSC_0200.png"
+ },
+ {
+  "candidate_id": "balance__DSC_0201",
+  "parent_id": "DSC_0201",
+  "full_image": "full/images/balance__DSC_0201.jpg",
+  "full_label": "full/labels/balance__DSC_0201.txt",
+  "image": "images/balance__DSC_0201.png"
+ },
+ {
+  "candidate_id": "balance__DSC_0202",
+  "parent_id": "DSC_0202",
+  "full_image": "full/images/balance__DSC_0202.jpg",
+  "full_label": "full/labels/balance__DSC_0202.txt",
+  "image": "images/balance__DSC_0202.png"
+ },
+ {
+  "candidate_id": "balance__DSC_0203",
+  "parent_id": "DSC_0203",
+  "full_image": "full/images/balance__DSC_0203.jpg",
+  "full_label": "full/labels/balance__DSC_0203.txt",
+  "image": "images/balance__DSC_0203.png"
+ },
+ {
+  "candidate_id": "balance__DSC_0204",
+  "parent_id": "DSC_0204",
+  "full_image": "full/images/balance__DSC_0204.jpg",
+  "full_label": "full/labels/balance__DSC_0204.txt",
+  "image": "images/balance__DSC_0204.png"
+ },
+ {
+  "candidate_id": "balance__DSC_0205",
+  "parent_id": "DSC_0205",
+  "full_image": "full/images/balance__DSC_0205.jpg",
+  "full_label": "full/labels/balance__DSC_0205.txt",
+  "image": "images/balance__DSC_0205.png"
+ },
+ {
+  "candidate_id": "balance__DSC_0206",
+  "parent_id": "DSC_0206",
+  "full_image": "full/images/balance__DSC_0206.jpg",
+  "full_label": "full/labels/balance__DSC_0206.txt",
+  "image": "images/balance__DSC_0206.png"
+ },
+ {
+  "candidate_id": "balance__DSC_0207",
+  "parent_id": "DSC_0207",
+  "full_image": "full/images/balance__DSC_0207.jpg",
+  "full_label": "full/labels/balance__DSC_0207.txt",
+  "image": "images/balance__DSC_0207.png"
+ },
+ {
+  "candidate_id": "balance__DSC_0208",
+  "parent_id": "DSC_0208",
+  "full_image": "full/images/balance__DSC_0208.jpg",
+  "full_label": "full/labels/balance__DSC_0208.txt",
+  "image": "images/balance__DSC_0208.png"
+ },
+ {
+  "candidate_id": "balance__DSC_0221",
+  "parent_id": "DSC_0221",
+  "full_image": "full/images/balance__DSC_0221.jpg",
+  "full_label": "full/labels/balance__DSC_0221.txt",
+  "image": "images/balance__DSC_0221.png"
+ },
+ {
+  "candidate_id": "balance__DSC_0222",
+  "parent_id": "DSC_0222",
+  "full_image": "full/images/balance__DSC_0222.jpg",
+  "full_label": "full/labels/balance__DSC_0222.txt",
+  "image": "images/balance__DSC_0222.png"
+ },
+ {
+  "candidate_id": "balance__DSC_0223",
+  "parent_id": "DSC_0223",
+  "full_image": "full/images/balance__DSC_0223.jpg",
+  "full_label": "full/labels/balance__DSC_0223.txt",
+  "image": "images/balance__DSC_0223.png"
+ },
+ {
+  "candidate_id": "balance__DSC_0224",
+  "parent_id": "DSC_0224",
+  "full_image": "full/images/balance__DSC_0224.jpg",
+  "full_label": "full/labels/balance__DSC_0224.txt",
+  "image": "images/balance__DSC_0224.png"
+ },
+ {
+  "candidate_id": "balance__DSC_0225",
+  "parent_id": "DSC_0225",
+  "full_image": "full/images/balance__DSC_0225.jpg",
+  "full_label": "full/labels/balance__DSC_0225.txt",
+  "image": "images/balance__DSC_0225.png"
+ },
+ {
+  "candidate_id": "balance__DSC_0226",
+  "parent_id": "DSC_0226",
+  "full_image": "full/images/balance__DSC_0226.jpg",
+  "full_label": "full/labels/balance__DSC_0226.txt",
+  "image": "images/balance__DSC_0226.png"
+ },
+ {
+  "candidate_id": "balance__DSC_0227",
+  "parent_id": "DSC_0227",
+  "full_image": "full/images/balance__DSC_0227.jpg",
+  "full_label": "full/labels/balance__DSC_0227.txt",
+  "image": "images/balance__DSC_0227.png"
+ },
+ {
+  "candidate_id": "balance__DSC_0229",
+  "parent_id": "DSC_0229",
+  "full_image": "full/images/balance__DSC_0229.jpg",
+  "full_label": "full/labels/balance__DSC_0229.txt",
+  "image": "images/balance__DSC_0229.png"
+ },
+ {
+  "candidate_id": "balance__DSC_0230",
+  "parent_id": "DSC_0230",
+  "full_image": "full/images/balance__DSC_0230.jpg",
+  "full_label": "full/labels/balance__DSC_0230.txt",
+  "image": "images/balance__DSC_0230.png"
+ },
+ {
+  "candidate_id": "balance__DSC_0231",
+  "parent_id": "DSC_0231",
+  "full_image": "full/images/balance__DSC_0231.jpg",
+  "full_label": "full/labels/balance__DSC_0231.txt",
+  "image": "images/balance__DSC_0231.png"
+ },
+ {
+  "candidate_id": "balance__DSC_0232",
+  "parent_id": "DSC_0232",
+  "full_image": "full/images/balance__DSC_0232.jpg",
+  "full_label": "full/labels/balance__DSC_0232.txt",
+  "image": "images/balance__DSC_0232.png"
+ },
+ {
+  "candidate_id": "balance__DSC_0233",
+  "parent_id": "DSC_0233",
+  "full_image": "full/images/balance__DSC_0233.jpg",
+  "full_label": "full/labels/balance__DSC_0233.txt",
+  "image": "images/balance__DSC_0233.png"
+ },
+ {
+  "candidate_id": "balance__DSC_0234",
+  "parent_id": "DSC_0234",
+  "full_image": "full/images/balance__DSC_0234.jpg",
+  "full_label": "full/labels/balance__DSC_0234.txt",
+  "image": "images/balance__DSC_0234.png"
+ },
+ {
+  "candidate_id": "balance__DSC_0235",
+  "parent_id": "DSC_0235",
+  "full_image": "full/images/balance__DSC_0235.jpg",
+  "full_label": "full/labels/balance__DSC_0235.txt",
+  "image": "images/balance__DSC_0235.png"
+ },
+ {
+  "candidate_id": "balance__DSC_0236",
+  "parent_id": "DSC_0236",
+  "full_image": "full/images/balance__DSC_0236.jpg",
+  "full_label": "full/labels/balance__DSC_0236.txt",
+  "image": "images/balance__DSC_0236.png"
+ },
+ {
+  "candidate_id": "balance__DSC_0238",
+  "parent_id": "DSC_0238",
+  "full_image": "full/images/balance__DSC_0238.jpg",
+  "full_label": "full/labels/balance__DSC_0238.txt",
+  "image": "images/balance__DSC_0238.png"
+ },
+ {
+  "candidate_id": "balance__DSC_0307",
+  "parent_id": "DSC_0307",
+  "full_image": "full/images/balance__DSC_0307.jpg",
+  "full_label": "full/labels/balance__DSC_0307.txt",
+  "image": "images/balance__DSC_0307.png"
+ },
+ {
+  "candidate_id": "balance__DSC_0308",
+  "parent_id": "DSC_0308",
+  "full_image": "full/images/balance__DSC_0308.jpg",
+  "full_label": "full/labels/balance__DSC_0308.txt",
+  "image": "images/balance__DSC_0308.png"
+ },
+ {
+  "candidate_id": "balance__DSC_0309",
+  "parent_id": "DSC_0309",
+  "full_image": "full/images/balance__DSC_0309.jpg",
+  "full_label": "full/labels/balance__DSC_0309.txt",
+  "image": "images/balance__DSC_0309.png"
+ },
+ {
+  "candidate_id": "balance__DSC_0310",
+  "parent_id": "DSC_0310",
+  "full_image": "full/images/balance__DSC_0310.jpg",
+  "full_label": "full/labels/balance__DSC_0310.txt",
+  "image": "images/balance__DSC_0310.png"
+ },
+ {
+  "candidate_id": "balance__DSC_0311_pindah",
+  "parent_id": "DSC_0311_pindah",
+  "full_image": "full/images/balance__DSC_0311_pindah.jpg",
+  "full_label": "full/labels/balance__DSC_0311_pindah.txt",
+  "image": "images/balance__DSC_0311_pindah.png"
+ },
+ {
+  "candidate_id": "balance__DSC_0312",
+  "parent_id": "DSC_0312",
+  "full_image": "full/images/balance__DSC_0312.jpg",
+  "full_label": "full/labels/balance__DSC_0312.txt",
+  "image": "images/balance__DSC_0312.png"
+ },
+ {
+  "candidate_id": "balance__DSC_0315",
+  "parent_id": "DSC_0315",
+  "full_image": "full/images/balance__DSC_0315.jpg",
+  "full_label": "full/labels/balance__DSC_0315.txt",
+  "image": "images/balance__DSC_0315.png"
+ },
+ {
+  "candidate_id": "balance__DSC_0316",
+  "parent_id": "DSC_0316",
+  "full_image": "full/images/balance__DSC_0316.jpg",
+  "full_label": "full/labels/balance__DSC_0316.txt",
+  "image": "images/balance__DSC_0316.png"
+ },
+ {
+  "candidate_id": "balance__DSC_0318",
+  "parent_id": "DSC_0318",
+  "full_image": "full/images/balance__DSC_0318.jpg",
+  "full_label": "full/labels/balance__DSC_0318.txt",
+  "image": "images/balance__DSC_0318.png"
+ },
+ {
+  "candidate_id": "balance__DSC_0345",
+  "parent_id": "DSC_0345",
+  "full_image": "full/images/balance__DSC_0345.jpg",
+  "full_label": "full/labels/balance__DSC_0345.txt",
+  "image": "images/balance__DSC_0345.png"
+ },
+ {
+  "candidate_id": "balance__DSC_0359",
+  "parent_id": "DSC_0359",
+  "full_image": "full/images/balance__DSC_0359.jpg",
+  "full_label": "full/labels/balance__DSC_0359.txt",
+  "image": "images/balance__DSC_0359.png"
+ },
+ {
+  "candidate_id": "balance__DSC_0362",
+  "parent_id": "DSC_0362",
+  "full_image": "full/images/balance__DSC_0362.jpg",
+  "full_label": "full/labels/balance__DSC_0362.txt",
+  "image": "images/balance__DSC_0362.png"
+ },
+ {
+  "candidate_id": "balance__DSC_0363",
+  "parent_id": "DSC_0363",
+  "full_image": "full/images/balance__DSC_0363.jpg",
+  "full_label": "full/labels/balance__DSC_0363.txt",
+  "image": "images/balance__DSC_0363.png"
+ },
+ {
+  "candidate_id": "balance__DSC_0365",
+  "parent_id": "DSC_0365",
+  "full_image": "full/images/balance__DSC_0365.jpg",
+  "full_label": "full/labels/balance__DSC_0365.txt",
+  "image": "images/balance__DSC_0365.png"
+ },
+ {
+  "candidate_id": "balance__DSC_0367",
+  "parent_id": "DSC_0367",
+  "full_image": "full/images/balance__DSC_0367.jpg",
+  "full_label": "full/labels/balance__DSC_0367.txt",
+  "image": "images/balance__DSC_0367.png"
+ },
+ {
+  "candidate_id": "balance__DSC_0379",
+  "parent_id": "DSC_0379",
+  "full_image": "full/images/balance__DSC_0379.jpg",
+  "full_label": "full/labels/balance__DSC_0379.txt",
+  "image": "images/balance__DSC_0379.png"
+ },
+ {
+  "candidate_id": "balance__DSC_0396",
+  "parent_id": "DSC_0396",
+  "full_image": "full/images/balance__DSC_0396.jpg",
+  "full_label": "full/labels/balance__DSC_0396.txt",
+  "image": "images/balance__DSC_0396.png"
+ },
+ {
+  "candidate_id": "balance__DSC_0397",
+  "parent_id": "DSC_0397",
+  "full_image": "full/images/balance__DSC_0397.jpg",
+  "full_label": "full/labels/balance__DSC_0397.txt",
+  "image": "images/balance__DSC_0397.png"
+ },
+ {
+  "candidate_id": "balance__DSC_0429",
+  "parent_id": "DSC_0429",
+  "full_image": "full/images/balance__DSC_0429.jpg",
+  "full_label": "full/labels/balance__DSC_0429.txt",
+  "image": "images/balance__DSC_0429.png"
+ },
+ {
+  "candidate_id": "balance__DSC_0431",
+  "parent_id": "DSC_0431",
+  "full_image": "full/images/balance__DSC_0431.jpg",
+  "full_label": "full/labels/balance__DSC_0431.txt",
+  "image": "images/balance__DSC_0431.png"
+ },
+ {
+  "candidate_id": "balance__DSC_0433",
+  "parent_id": "DSC_0433",
+  "full_image": "full/images/balance__DSC_0433.jpg",
+  "full_label": "full/labels/balance__DSC_0433.txt",
+  "image": "images/balance__DSC_0433.png"
+ },
+ {
+  "candidate_id": "balance__DSC_0434",
+  "parent_id": "DSC_0434",
+  "full_image": "full/images/balance__DSC_0434.jpg",
+  "full_label": "full/labels/balance__DSC_0434.txt",
+  "image": "images/balance__DSC_0434.png"
+ },
+ {
+  "candidate_id": "balance__DSC_0435",
+  "parent_id": "DSC_0435",
+  "full_image": "full/images/balance__DSC_0435.jpg",
+  "full_label": "full/labels/balance__DSC_0435.txt",
+  "image": "images/balance__DSC_0435.png"
+ },
+ {
+  "candidate_id": "balance__DSC_0436",
+  "parent_id": "DSC_0436",
+  "full_image": "full/images/balance__DSC_0436.jpg",
+  "full_label": "full/labels/balance__DSC_0436.txt",
+  "image": "images/balance__DSC_0436.png"
+ },
+ {
+  "candidate_id": "balance__DSC_0437",
+  "parent_id": "DSC_0437",
+  "full_image": "full/images/balance__DSC_0437.jpg",
+  "full_label": "full/labels/balance__DSC_0437.txt",
+  "image": "images/balance__DSC_0437.png"
+ },
+ {
+  "candidate_id": "balance__DSC_0440",
+  "parent_id": "DSC_0440",
+  "full_image": "full/images/balance__DSC_0440.jpg",
+  "full_label": "full/labels/balance__DSC_0440.txt",
+  "image": "images/balance__DSC_0440.png"
+ }
+]

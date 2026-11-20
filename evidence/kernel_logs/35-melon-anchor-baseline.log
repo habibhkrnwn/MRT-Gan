@@ -1,0 +1,52 @@
+[{"stream_name":"stderr","time":6.901859154,"data":"/usr/local/lib/python3.13/dist-packages/nbformat/validator.py:434: MissingIDFieldWarning: Cell is missing an id field, this will become a hard error in future nbformat versions. You may want to use `normalize()` on your notebooks before validations (available since nbformat 5.1.4). Previous versions of nbformat are fixing this issue transparently, and will stop doing so in the future.\n"}
+,{"stream_name":"stderr","time":6.90192904,"data":"  _validate(nbdict, ref, version, version_minor, relax_add_props)\n"}
+,{"stream_name":"stderr","time":7.806178885,"data":"0.00s - Debugger warning: It seems that frozen modules are being used, which may\n"}
+,{"stream_name":"stderr","time":7.80620627,"data":"0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off\n"}
+,{"stream_name":"stderr","time":7.806211267,"data":"0.00s - to python to disable frozen modules.\n"}
+,{"stream_name":"stderr","time":7.806215181,"data":"0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.\n"}
+,{"stream_name":"stderr","time":8.395437525,"data":"0.00s - Debugger warning: It seems that frozen modules are being used, which may\n"}
+,{"stream_name":"stderr","time":8.395465518,"data":"0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off\n"}
+,{"stream_name":"stderr","time":8.395470911,"data":"0.00s - to python to disable frozen modules.\n"}
+,{"stream_name":"stderr","time":8.395475118,"data":"0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.\n"}
+,{"stream_name":"stdout","time":28.295213745,"data":"code package verified: 151 files\n"}
+,{"stream_name":"stdout","time":42.2068337,"data":"2.11.0+cu130 True\n"}
+,{"stream_name":"stdout","time":42.406570785,"data":"GPUs 2\n"}
+,{"stream_name":"stdout","time":365.394060976,"data":"R512 pool {'max_drift': 0.2745869954427083, 'mean_drift': 0.15114270920721476, 'n': 298} 5683bb7d7fb25bdccd7d7fde509b86de11b650cabe9c696c5dd695f9d2f95386\n"}
+,{"stream_name":"stdout","time":390.127933522,"data":"margin 512 1.5923 margin 256 1.5907\n"}
+,{"stream_name":"stderr","time":398.539817729,"data":"warning: The `--system` flag has no effect, `uv venv` always ignores virtual environments when finding a Python interpreter; did you mean `--no-managed-python`?\n"}
+,{"stream_name":"stderr","time":398.742507698,"data":"warning: The `--system` flag has no effect, `uv venv` always ignores virtual environments when finding a Python interpreter; did you mean `--no-managed-python`?\n"}
+,{"stream_name":"stderr","time":398.742537434,"data":"\n"}
+,{"stream_name":"stderr","time":398.742541324,"data":"warning: The `--system` flag has no effect, `uv venv` always ignores virtual environments when finding a Python interpreter; did you mean `--no-managed-python`?\n"}
+,{"stream_name":"stderr","time":398.856511136,"data":"Downloading cpython-3.10.22-linux-x86_64-gnu (download) (28.0MiB)\n"}
+,{"stream_name":"stderr","time":399.05903356,"data":"Downloading cpython-3.10.22-linux-x86_64-gnu (download) (28.0MiB)\n"}
+,{"stream_name":"stderr","time":399.059077829,"data":"\n"}
+,{"stream_name":"stderr","time":399.059083245,"data":"Downloading cpython-3.10.22-linux-x86_64-gnu (download) (28.0MiB)\n"}
+,{"stream_name":"stderr","time":399.693070381,"data":" Downloaded cpython-3.10.22-linux-x86_64-gnu (download)\n"}
+,{"stream_name":"stderr","time":399.895541334,"data":" Downloaded cpython-3.10.22-linux-x86_64-gnu (download)\n"}
+,{"stream_name":"stderr","time":399.895567625,"data":"\n"}
+,{"stream_name":"stderr","time":399.895573347,"data":" Downloaded cpython-3.10.22-linux-x86_64-gnu (download)\n"}
+,{"stream_name":"stderr","time":399.954789884,"data":"Using CPython 3.10.22\n"}
+,{"stream_name":"stderr","time":399.954825974,"data":"Creating virtual environment at: /tmp/tenv\n"}
+,{"stream_name":"stderr","time":399.955523034,"data":"Activate with: source /tmp/tenv/bin/activate\n"}
+,{"stream_name":"stderr","time":400.156981982,"data":"Using CPython 3.10.22\n"}
+,{"stream_name":"stderr","time":400.157010449,"data":"Creating virtual environment at: /tmp/tenv\n"}
+,{"stream_name":"stderr","time":400.1570149,"data":"Activate with: source /tmp/tenv/bin/activate\n"}
+,{"stream_name":"stderr","time":400.157018585,"data":"\n"}
+,{"stream_name":"stderr","time":400.157022133,"data":"Using CPython 3.10.22\n"}
+,{"stream_name":"stderr","time":400.157025604,"data":"Creating virtual environment at: /tmp/tenv\n"}
+,{"stream_name":"stderr","time":400.15702893,"data":"Activate with: source /tmp/tenv/bin/activate\n"}
+,{"stream_name":"stdout","time":586.46261788,"data":"smoke_A rc 0 minutes 2.5 peak GiB 4.64\n"}
+,{"stream_name":"stdout","time":586.551279632,"data":"saturation {'A': 0.9417711974429434} config B\n"}
+,{"stream_name":"stdout","time":3334.30151966,"data":"raw_s12 rc 0 minutes 45.8 peak GiB 4.64\n"}
+,{"stream_name":"stdout","time":3660.633943781,"data":"raw_s11 rc 0 minutes 51.2 peak GiB 4.64\n"}
+,{"stream_name":"stdout","time":6869.734828379,"data":"raw_s13 rc 0 minutes 53.5 peak GiB 4.64\n"}
+,{"stream_name":"stdout","time":7048.46195028,"data":"done 446 MiB\n"}
+,{"stream_name":"stderr","time":7054.496459749,"data":"/usr/local/lib/python3.13/dist-packages/mistune.py:435: SyntaxWarning: invalid escape sequence '\\|'\n"}
+,{"stream_name":"stderr","time":7054.496496437,"data":"  cells[i][c] = re.sub('\\\\\\\\\\|', '|', cell)\n"}
+,{"stream_name":"stderr","time":7054.695407446,"data":"/usr/local/lib/python3.13/dist-packages/nbconvert/filters/filter_links.py:36: SyntaxWarning: invalid escape sequence '\\_'\n"}
+,{"stream_name":"stderr","time":7054.695434032,"data":"  text = re.sub(r'_', '\\_', text) # Escape underscores in display text\n"}
+,{"stream_name":"stderr","time":7055.483638721,"data":"[NbConvertApp] Converting notebook __notebook__.ipynb to notebook\n"}
+,{"stream_name":"stderr","time":7055.559528593,"data":"[NbConvertApp] Writing 23317 bytes to __notebook__.ipynb\n"}
+,{"stream_name":"stderr","time":7058.000188204,"data":"[NbConvertApp] Converting notebook __notebook__.ipynb to html\n"}
+,{"stream_name":"stderr","time":7058.573932019,"data":"[NbConvertApp] Writing 357384 bytes to __results__.html\n"}
+]

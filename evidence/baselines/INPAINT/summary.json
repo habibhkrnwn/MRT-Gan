@@ -1,0 +1,18 @@
+{
+ "baseline": "SD inpainting with LoRA",
+ "diffusers": "0.30.3",
+ "lora_base": "stable-diffusion-v1-5/stable-diffusion-v1-5",
+ "inpaint": "stable-diffusion-v1-5/stable-diffusion-inpainting",
+ "steps": 2000,
+ "batch": 1,
+ "size": 512,
+ "prompt": "a photo of sks unripe melon",
+ "guidance": 7.5,
+ "sampling_steps": 30,
+ "seeds": [
+  11,
+  12,
+  13
+ ],
+ "test_used": false
+}
